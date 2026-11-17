@@ -1,0 +1,135 @@
+term,translation,notes,forbidden
+Caveopolis,Caveopolis,整合包名，保留英文,
+BBL,BBL,作者前缀，保留英文,
+benbenlaw,benbenlaw,作者名，保留英文,
+B Bucks,B币,商店货币；Fractured Opolis 汉化同译,
+Casting,铸造,模组名保留 Casting；正文指体系时用“铸造”,
+Casting Table,铸造台,,
+Casting Basin,铸造盆,,
+Casting Cauldron,铸造锅,,
+Glacium,冰川石,Casting 冷却液；由超级冷却液、冷冻水与冰水混合制得,
+Scorchium,灼热石,Casting 燃料；由炽焰熔岩、熔融碳与熔融黑曜石制得,
+Omnithium,万象合金,Casting Tools 材料；omni 取“万象”,
+Modifier,强化台,Casting Tools 的方块名,
+Crystaltine,晶素,Extended Crafting 材料；Caveopolis 强化版译“强化晶素”,
+Shimmer Crystal,微光水晶,整合包自定义材料；用户确认,闪耀水晶|微光晶体
+Shimmer Stone,微光石,整合包自定义方块,
+Strainer,筛子,方块/物品名；Mesh 才是“滤网”,筛网|滤网|过滤器
+Mesh,滤网,筛网材质；与 i18n 资源包一致,筛子|筛网
+Singularity,奇点,,
+Depth Charm,深度护符,,深度护身符
+Prosperity,活化水晶,Mystical Agriculture 材料,繁荣水晶|富饶水晶
+Prosperity Seeds,活化水晶种子,Caveopolis 自定义种子基底,
+Enderium,末影锭,Casting 流体作“熔融末影锭”,末影合金|末地锭
+Crystalline,结晶,任务正文中的材料名,
+Fire Essence,火之精华,元素精华,火焰精华|火精华
+Toprock,顶层岩石,世界顶层不可破坏方块,顶层石
+Mystical Enlightenment,神秘启示,Mystical Agriculture 附魔,
+The Meshalist,滤网大师,交易员名；mesh 双关,
+Sniffy Sniffer,灵敏嗅探兽,附属模组生物；用户确认,
+Camol,伪装方块,模组名保留 Camol；物品为伪装方块,迷彩方块|迷彩
+Camo Block,伪装方块,,迷彩方块|迷彩
+Shape Retaining Camo Block,保形伪装方块,,
+Lava,熔岩,流体/方块；原版译名,岩浆
+Magma,岩浆,仅岩浆炸弹等非方块；方块名用“岩浆块”,熔岩
+Coin,钱币,商店货币,硬币
+Purifying Water,纯化水,,
+Eroding Water,腐蚀水,,
+Purified …,纯化…,例如纯化下界岩、纯化末地石,
+Cave Sweet Cave,洞穴之家,章节标题,
+The Depths,深处,章节标题,
+End of the Line,终点,章节标题,
+The Heights,高处,章节标题,
+Seedy,种子,章节标题,
+Heating Up,升温,章节标题,
+Charging,充能,章节标题,
+Trader,商人,,交易员
+Shop,商店,,
+Player Shop,玩家商店,,
+Ultimine,连锁挖掘,FTB Ultimine 的功能名,
+Shaders,光影,,
+Resource Pack,资源包,,
+Nether,下界,,
+Overworld,主世界,,
+End,末地,,
+Ultimate Singularity,终极奇点,,
+Ultimate Crafting Table,终极工作台,,
+Quantum Compressor,量子压缩机,,
+Smart Crafting Table,智能工作台,,
+Wooden Hopper,木漏斗,,
+Invisible Light,隐形光源,,
+Flight Block,飞行方块,,
+Routers,路由器,,
+Refined Storage,精致存储,,精炼存储
+Refined Obsidian,强化黑曜石,与 Mystical Agriculture 一致,精炼黑曜石
+Refined Glowstone,强化荧石,,精炼荧石
+Applied Energistics,应用能源,,
+Powah,Powah,模组名保留,
+Mystical Agriculture,神秘农业,,
+EnderIO,EnderIO,模组名保留,
+Extended Crafting,扩展合成,,
+GeOre,GeOre,模组名保留,
+Reliquary,圣物,,
+JEI,JEI,保留,
+FTB Quests,FTB 任务,,
+Cognizant Dust,觉醒粉,神秘农业材料,醒觉粉
+Ice Unit,冷却单元,Cooking for Blockheads 升级,制冰单元
+Kitchen Counter,厨柜,Cooking for Blockheads 方块,厨房台面
+Luminessence,流明精华,Extended Crafting 材料,荧辉|荧光精华
+Uraninite,晶质铀,Powah 材料,晶质铀矿
+Raw Uraninite,天然晶质铀（普通）,Powah 原始材料,粗晶质铀矿
+Explorer's Compass,结构罗盘,ExplorersCompass 物品,探险家指南针
+Explorers Compass,结构罗盘,ExplorersCompass 物品,探险家指南针
+Ceramic Bucket,陶瓷桶,Ceramic Bucket 物品,黏土桶
+Wooden Crank,木质曲柄,AE2 物品,手摇曲柄
+Machine Upgrade Base,升级基板,神秘农业物品,升级基座
+Dragon Scale,龙鳞,神秘农业附加材料,
+Dragon Egg Chunk,龙蛋块,神秘农业附加材料,
+Dragon Head,龙首,原版物品,末影龙头颅
+Ender Dragon Egg,龙蛋,原版物品,末影龙蛋
+Popped Chorus Fruit,爆裂紫颂果,原版物品,
+Nether Star Shard,下界之星碎片,神秘农业附加材料,
+Soulium Dust,离魂粉,神秘农业材料,灵魂粉
+Black Iron Slate,黑铁板,Extended Crafting 材料,
+Weathered Copper,锈蚀的铜块,原版铜氧化阶段,风化的铜块
+Waxed Weathered Copper,涂蜡的锈蚀铜块,原版铜氧化阶段,涂蜡的风化的铜块
+Lead Blocks,铅块,Chisel 金属方块组,拴绳块
+Claim,认领,FTB Chunks 区块认领,声明|占领
+Waypoint,路径点,FTB Chunks 地图标记,
+Waystone,传送石碑,Waystones 方块,
+Awakened Supremium,觉醒精华,神秘农业材料,觉醒终极精华
+Insanium,究极精华,神秘农业附加材料,
+Supremium,终极精华,神秘农业材料,
+Inferium,下级精华,神秘农业材料,
+Prudentium,初级精华,神秘农业材料,
+Tertium,中级精华,神秘农业材料,
+Imperium,高级精华,神秘农业材料,
+Sickle,镰刀,神秘农业工具；Scythe 为收割刀,短镰
+Scythe,收割刀,神秘农业工具,
+Vacuum Interface,真空接口,ExtendedAE 方块,
+Energy Conduit,能量导管,EnderIO 导管,
+Crude Steel,粗钢,EnderIO Endergy 材料,
+Crystalline Alloy,结晶合金,EnderIO Endergy 材料,
+Melodic Alloy,旋律合金,EnderIO Endergy 材料,
+Stellar Alloy,星辉合金,EnderIO Endergy 材料,
+Vivid Alloy,活力合金,EnderIO Endergy 材料,
+Tiered Interface,多级接口,Cable Tiers 方块,
+Growth Accelerator,生长加速器,含 Growth Accelerator Tiers 分级方块,
+Party,团队,FTB Teams 队伍类型,
+Team,队伍,FTB Teams 通用队伍,
+Pick-Craft,点选合成,Advanced AE 功能,
+Soul Siphoner,灵魂汲取者,神秘农业附魔与词条,
+Nitro Crystal,下界水晶,沿用上游现有译名,
+Covered Cable,包层线缆,AE2 线缆；组名同步,覆盖线缆
+Lumen Paint Ball,光通染色球,AE2,流明染色球
+Rope Stair,绳索桥阶梯,Macaw's Bridges 官方,绳梯
+Moon Stone,月岩,Stellaris 方块,月石
+Exporter,输出口,Routers 方块；Refined Storage 用输出总线,
+Importer,输入口,Routers 方块；Refined Storage 用输入总线,
+Upgrade Base,升级基座,BBL Core 独立物品；与神秘农业 Machine Upgrade Base（升级基板）区分,
+Witherproof,防凋灵,原版凋灵；不采用模组官方“防凋零”,防凋零
+Glowstone,荧石,原版方块,萤石
+Deepslate,深板岩,原版方块,
+Prismarine,海晶石,原版方块,
+Magma Block,岩浆块,原版方块,
+Purpur Block,紫珀块,原版方块,

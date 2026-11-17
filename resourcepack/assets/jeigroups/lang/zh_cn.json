@@ -1,0 +1,5 @@
+{
+  "tooltip.jeigroups.click_to_expand": "点击展开另外 %s 个物品",
+  "tooltip.jeigroups.group": "分组：%s",
+  "tooltip.jeigroups.click_to_collapse": "按住 Shift 点击折叠分组：%s"
+}

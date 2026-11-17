@@ -1,0 +1,414 @@
+{
+  "quest.5512C8493485B010.quest_desc": [
+    "挖掘更快",
+    "",
+    "&8───────────────",
+    "",
+    "Faster mining "
+  ],
+  "quest.629735725398325E.quest_desc": [
+    "&l智能工作台&r可以更快地合成物品。放下后，它会从周围的&l箱子&r和&l容器&r中抽取物品。",
+    "",
+    "在附近放置&l切石机&r和&l锻造台&r，也会加入对应的配方",
+    "",
+    "&8───────────────",
+    "",
+    "The &lSmart Crafting Table&r can be used to craft items quicker. Place down and it will pull from nearby &lChests&r and &lInventories&r around it.",
+    "",
+    "Placing a &lStonecutter&r and a &lSmithing Table&r nearby will add those recipes too"
+  ],
+  "quest.48DCC2C951B04764.quest_desc": [
+    "由&#8B4513&l原木&r&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted from &#8B4513&lLogs&r&r"
+  ],
+  "quest.49BE1AA92F3481CC.quest_desc": [
+    "满足你的各种存储需求。使用抽屉进行大规模存储",
+    "",
+    "&8───────────────",
+    "",
+    "For all your storage solutions. Mass storage using drawers"
+  ],
+  "quest.61D20156EA44405D.quest_desc": [
+    "烧炼后的&9&l陶瓷桶&r&r可用于搬运流体，不过高温流体不太行……",
+    "",
+    "&8───────────────",
+    "",
+    "Smelted &9&lClay Bucket&r&r can be used to move fluids around, Hot fluids not so much..."
+  ],
+  "quest.733D8F1435302FBB.quest_desc": [
+    "&l洞穴之家&r",
+    "",
+    "&8───────────────",
+    "",
+    "&lCave Sweet Cave&r"
+  ],
+  "quest.025F7EF53C37D461.quest_desc": [
+    "&l滤网&r放入&l筛子&r中，可从方块中获取资源。我们能制作的第一个是&#8B4513&l木滤网&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&lMeshes&r are used inside a &lStrainer&r to obtain resource from blocks. The first one we can make is a &#8B4513&lWooden Mesh&r&r"
+  ],
+  "quest.49BE1AA92F3481CC.title": "功能性存储",
+  "quest.77A395AAEC110F24.quest_desc": [
+    "一次最多可放置 8 个方块",
+    "",
+    "&8───────────────",
+    "",
+    "Allows the placing of up to 8 blocks at once"
+  ],
+  "quest.32C8C15E8949D223.quest_desc": [
+    "&8&l圆石&r&r可用于制作&8&l工作台&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lCobblestone&r&r can be used to make a &8&lCrafting Table&r&r"
+  ],
+  "quest.51BD0FA8B18D1346.quest_desc": [
+    "一块简单的&2&l羊毛&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Simple block of &2&lWool&r&r"
+  ],
+  "quest.4914C972A4B18C3A.quest_desc": [
+    "&l骨块&r可用于制作&2&l树苗催熟器&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "A &lBone Block&r can be used to make a &2&lSapling Grower&r&r"
+  ],
+  "quest.7D7C367BB5F40AAA.quest_desc": [
+    "用&l锤子&r破坏&8&l沙砾&r&r时，有时会获得&e&l沙子粉末&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &8&lGravel&r&r with a &lHammer&r you will sometimes get &e&lSand Dust&r&r"
+  ],
+  "quest.7F5841CE18B21DB3.quest_desc": [
+    "&8&l石子&r&r可用于制作&8&l圆石&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lStone Pebbles&r&r can be used to make &8&lCobblestone&r&r "
+  ],
+  "quest.0AC010652B6FAAFB.quest_desc": [
+    "&8&l熔炉&r&r可用于&l烧炼&r物品",
+    "",
+    "&8───────────────",
+    "",
+    "A &8&lFurnace&r&r can be used to &lSmelt&r items "
+  ],
+  "task.5C6C0806B53EAA15.title": "任意树叶",
+  "quest.11824D34B0F5FAB5.quest_desc": [
+    "用&l剪刀&r破坏&2&l树叶&r&r时获得",
+    "",
+    "&8───────────────",
+    "",
+    "Obtained when breaking &2&lLeaves&r&r with &lShears&r"
+  ],
+  "task.69953BC0BE899452.title": "更多落叶堆",
+  "quest.77AD52641F5FE57D.quest_desc": [
+    "差不多能用了",
+    "",
+    "&8───────────────",
+    "",
+    "Almost usable "
+  ],
+  "quest.5F6193F62434BCC3.quest_desc": [
+    "由&2&l落叶堆&r&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted with &2&lLeaf Piles&r&r"
+  ],
+  "quest.729E27AAB9423A9F.quest_desc": [
+    "简单的物品运输",
+    "",
+    "&8───────────────",
+    "",
+    "Simple item movement"
+  ],
+  "quest.35A26421FAAF42FC.quest_desc": [
+    "右击&1&l水源&r&r方块可将&l玻璃瓶&r装满",
+    "",
+    "&8───────────────",
+    "",
+    "&lGlass Bottles&r can be filled by right clicking on a &1&lWater Source&r&r block"
+  ],
+  "quest.4FEBE922A858AF19.quest_desc": [
+    "用&l锤子&r破坏&8&l圆石&r&r时，会获得一些&8&l沙砾石子&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &8&lCobblestone&r&r with a &lHammer&r you will get some &8&lGravel Pebbles&r&r"
+  ],
+  "quest.4742A5485B52CD6A.quest_desc": [
+    "烧炼&e&l沙子&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Smelted &e&lSand&r&r"
+  ],
+  "quest.406563DD9A729437.quest_desc": [
+    "用&l锤子&r破坏&8&l泥土&r&r时，有时会获得一些&2&l落叶堆&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &8&lDirt&r&r with a &lHammer&r you will sometimes get some &2&lLeaf Piles&r&r"
+  ],
+  "quest.787D9F3B592FA49D.quest_desc": [
+    "对&#8B4513&l泥土&r&r方块使用&l&2树苗袋&r&r，会生成一株随机的&2&l树苗&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When using the &l&2Sapling Bag&r&r on a &#8B4513&lDirt&r&r block it will create a random &2&lSapling&r&r"
+  ],
+  "quest.179733BC3BD31458.quest_desc": [
+    "用&l锤子&r破坏&8&l尘土块&r&r时，有时会获得一些&l骨粉&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &8&lDust Blocks&r&r with a &lHammer&r you will sometimes get some &lBone Meal&r"
+  ],
+  "quest.04E55613C21B65B5.quest_desc": [
+    "由&l玻璃&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted from &lGlass&r"
+  ],
+  "quest.11C316EB7921A528.quest_subtitle": "解锁新的商店物品……",
+  "quest.46F1066733254259.quest_desc": [
+    "基础&l剪刀&r",
+    "",
+    "&8───────────────",
+    "",
+    "Basic &lShears&r"
+  ],
+  "quest.34C1D5AF393B7784.quest_desc": [
+    "就和&l线&r一样",
+    "",
+    "&8───────────────",
+    "",
+    "Its just like &lString&r"
+  ],
+  "task.53A2FEE2F4228C73.title": "任意木箱",
+  "quest.4CBBC984FBE99387.title": "简易存储",
+  "quest.628181705D32A86F.quest_desc": [
+    "由&8&l尘土&r&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted with &8&lDust&r&r"
+  ],
+  "quest.574F3682A221135E.quest_desc": [
+    "&l筛选&r&#8B4513&l泥&r&r时可获得&9&l黏土球&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&9&lClay Balls&r&r can be found when &lStraining&r &#8B4513&lMud&r&r"
+  ],
+  "quest.79AF93F3F4D1C0F6.quest_desc": [
+    "用&l锤子&r破坏&8&l沙砾&r&r时，有时会获得&#8B4513&l土堆&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &8&lGravel&r&r with a &lHammer&r you will sometimes get &#8B4513&lDirt Piles&r&r"
+  ],
+  "quest.44E4456E2172CD2C.quest_desc": [
+    "&l筛选&r&8&l沙砾&r&r时可获得&8&l燧石&r&r。部分筛子配方需要流体，这里需要&1&l水&r&r。手持&1&l水滴&r&r右击筛子即可加入&1&l水&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lFlint&r&r can be found when &lStraining&r &8&lGravel&r&r. Some Strainer recipe require a fluid, this needs &1&lWater&r&r. &1&lWater&r&r can be added by right clicking on the strainer with &1&lWater Drops&r&r"
+  ],
+  "quest.11C316EB7921A528.quest_desc": [
+    "我们做到了，&l打树得木&r",
+    "",
+    "&8───────────────",
+    "",
+    "We did it &lPunch Tree Get Wood&r"
+  ],
+  "task.2E9CDA478C24BBDD.title": "任意树苗",
+  "quest.48DCC2C951B04764.title": "木板",
+  "quest.626C384F9B0BE4F7.quest_desc": [
+    "用&l锤子&r破坏&e&l沙子&r&r时，有时会获得一些&2&l尘土&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &e&lSand&r&r with a &lHammer&r you will sometimes get some &2&lDust&r&r"
+  ],
+  "quest.5D1B85951027B222.quest_desc": [
+    "用&#8B4513&l木棍&r&r破坏&2&l树叶&r&r时，有概率掉落&2&l落叶堆&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&2&lLeaves&r&r can drop &2&lLeaf Piles&r&r when broken using a &#8B4513&lStick&r&r at a chance"
+  ],
+  "quest.787D9F3B592FA49D.title": "树苗",
+  "quest.74F8001C9715CD98.quest_desc": [
+    "可挖掘 3×3 区域，比普通镐更好用",
+    "",
+    "&8───────────────",
+    "",
+    "Mines a 3x3 area better than a normal pickaxe"
+  ],
+  "task.6940F017F33C91AC.title": "任意原木",
+  "quest.0E017E0954E0B80A.quest_desc": [
+    "由&e&l沙子粉末&r&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted with &e&lSand Dust&r&r"
+  ],
+  "quest.1E363EDF5DBF5EAC.quest_desc": [
+    "在&8&l熔炉&r&r中可用&8&l圆石&r&r烧制&8&l石头&r&r。&#8B4513&l木棍&r&r可作为燃料",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lStone&r&r can be made in the &8&lFurnace&r&r from &8&lCobblestone&r&r. &#8B4513&lSticks&r&r can be used as fuel"
+  ],
+  "quest.21D4FEE49B91B844.quest_desc": [
+    "由&#8B4513&l土堆&r&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted with &#8B4513&lDirt Piles&r&r"
+  ],
+  "quest.3FBF87B0F2B08C13.quest_desc": [
+    "手持&1&l水瓶&r&r右击&#8B4513&l泥土&r&r方块，会生成&#8B4513&l泥&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Right clicking on a &#8B4513&lDirt&r&r block with a &1&lWater Bottle&r&r will create &#8B4513&lMud&r&r"
+  ],
+  "quest.62367295F2ED87C2.quest_desc": [
+    "用&l锤子&r破坏&8&l泥土&r&r时，有时会获得&#8B4513&l木棍&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "When breaking &8&lDirt&r&r with a &lHammer&r you will sometimes get &#8B4513&lSticks&r&r"
+  ],
+  "task.4145BC558614B658.title": "任意木板",
+  "quest.5D3C3E69D68AB405.quest_desc": [
+    "徒手破坏&8&l石头&r&r可获得&8&l石子&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lStone&r&r can be broken with your hands to get &8&lStone Pebbles&r&r"
+  ],
+  "quest.11824D34B0F5FAB5.title": "树叶",
+  "task.525C2A6D23BCCE47.title": "任意抽屉",
+  "quest.75C3B28FD782BD15.quest_desc": [
+    "由&8&l沙砾石子&r&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted with &8&lGravel Pebbles&r&r"
+  ],
+  "quest.7593B5C53F69C6AC.quest_desc": [
+    "&8&l石锤&r&r可用于&l粉碎&r部分方块",
+    "",
+    "&8───────────────",
+    "",
+    "A &8&lStone Hammer&r&r can be used to &lPulverize&r some blocks down"
+  ],
+  "quest.52991548E4BF5BA0.quest_desc": [
+    "由方块压成的方块",
+    "",
+    "&8───────────────",
+    "",
+    "A block of a block"
+  ],
+  "quest.0179DCBCBDAF9F55.quest_desc": [
+    "&l商店方块&r的作用类似于物品栏中的&l商店&r，但可以自动购买和出售物品。",
+    "",
+    "需要放入一张&l玩家余额卡&r才能工作，按住 Shift 右击可绑定该卡",
+    "",
+    "&8───────────────",
+    "",
+    "The &lShop Block&r works like the &lShop&r in your inventory but allows you to automatically buy and sell items.",
+    "",
+    "A &lPlayer Balance Card&r must be placed inside for this to work, bound the card with shift right click"
+  ],
+  "quest.11C316EB7921A528.title": "原木",
+  "quest.4CBBC984FBE99387.quest_desc": [
+    "基础存储",
+    "",
+    "&8───────────────",
+    "",
+    "Basic Storage"
+  ],
+  "quest.27DFEF0103DEF0EB.quest_desc": [
+    "简单的&8&l石棒&r&r，用于制作&l锤子&8&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "A simple &8&lStone Rod&r&r used to make a &lHammer&8&r&r"
+  ],
+  "quest.52EC37F1786E844E.quest_desc": [
+    "作用与&1&l水滴&r&r相同，但生成的是&8&l腐蚀水&r&r。",
+    "",
+    "&8&l腐蚀水&r&r可在&l筛子&r中使用，将&8&l圆石&r&r等方块分解为&8&l沙砾&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Works just like the &1&lWater Drop&r&r except it makes &8&lEroding Water&r&r instead.",
+    "",
+    "&8&lEroding Water&r&r can be used in a &lStrainer&r to break down blocks like &8&lCobblestone&r&r to &8&lGravel&r&r"
+  ],
+  "quest.314519CDC63C8C6E.quest_desc": [
+    "&#8B4513&l木棍&r&r可在&8&l熔炉&r&r中制成&l火把&r",
+    "",
+    "&8───────────────",
+    "",
+    "&#8B4513&lSticks&r&r can be turned into &lTorches&r in the &8&lFurnace&r&r"
+  ],
+  "quest.5EE414463028470E.quest_desc": [
+    "&8&l燧石滤网&r&r是下一级&l滤网&r，掉落概率更高，还能发现新的资源",
+    "",
+    "&8───────────────",
+    "",
+    "The &8&lFlint Mesh&r&r is the next tier of &lMesh&r allowing for better chances as well as new resources to be found"
+  ],
+  "quest.1A54077F8F9BB446.quest_desc": [
+    "基础的&l筛子&r只需放入一张滤网即可工作",
+    "",
+    "&8───────────────",
+    "",
+    "A basic &lStrainer&r just requires a Mesh inside to work "
+  ],
+  "quest.060BC8E865394692.quest_desc": [
+    "在&l筛子&r中&l筛选&r&2&l覆盖物&r&r时可获得&1&l水滴&r&r。",
+    "",
+    "手持 4 个&1&l水滴&r&r右击世界，会放置一个&1&l水源&r&r方块。",
+    "",
+    "&1&l水滴&r&r可用于给&l筛子&r加入&1&l水&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "A &1&lWater Drop&r&r can be obtained when &lStraining&r &2&lMulch&r&r inside a &lStrainer&r.",
+    "",
+    "When holding 4 &1&lWater Drops&r&r and right clicking in world will place a source block of &1&lWater&r&r. ",
+    "",
+    "&1&lWater Drops&r&r can be used on the &lStrainer&r to fill with &1&lWater&r&r"
+  ],
+  "quest.46BF27438D19CC8E.quest_desc": [
+    "只要有足够空间，可立即催熟&2&l树苗&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Can be used to grow &2&lSaplings&r&r instantly providing there is enough space for it"
+  ],
+  "quest.48BB019808A704AE.quest_desc": [
+    "&l筛选&r&l&2覆盖物&r&r同样可获得&2&l树苗袋&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&2&lSaplings Bags&r&r are again obtained when &lStraining&r &l&2Mulch&r&r "
+  ]
+}

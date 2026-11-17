@@ -1,0 +1,40 @@
+{
+  "quest.2D956693B1C3A1E6.quest_desc": [
+    "欢迎来到&lCaveopolis 2&r，感谢下载。",
+    "开始使用&l/skyblock gui&r或点击&lFull Stop&r按钮之前，请先为你的队伍创建自己的&l基地&r"
+  ],
+  "quest.655FD74AF49BA8B6.quest_desc": [
+    "这个世界充满了石头和洞穴。",
+    "敌对生物不会自然生成",
+    "矿石不会自然生成",
+    "要深入世界，你需要&l深度护符&r。它们能保护你免受下方的危险"
+  ],
+  "quest.12B3AF4B71001DE4.quest_desc": [
+    "&lCaveopolis 2&r还包含一些可选的&l资源包&r，可在&l游戏菜单&r → 选项 → &l资源包&r中找到",
+    "&lBBL Colors Connected Textures&r，为彩色方块提供连接纹理",
+    "&lSlightly Improved Font&r，提供更清晰的字体"
+  ],
+  "quest.77D765575CE997A2.quest_desc": [
+    "&lCaveopolis 2&r有一个&l公共服务器&r。可从多人游戏菜单加入"
+  ],
+  "quest.2C71C7417D2F6A07.quest_desc": [
+    "跟随&l任务书&r，它会帮助你推进整合包进度。"
+  ],
+  "quest.02FC82FA0D7F293D.quest_desc": [
+    "&lCaveopolis 2&r可以使用&l光影&r游玩。打开&l视频设置&r，点击右上角的&l光影包&r！"
+  ],
+  "quest.272A2602BC70E5EC.quest_desc": [
+    "整合包中会遇到&l商人&r，部分&l商人&r可以收购你的物品",
+    "部分&l商人&r会出售带&6&l金色边框&r&r的物品，可&l购买&r或&l出售&r。这些交易会升级该&l商人&r的可用交易"
+  ],
+  "quest.5E213B8FFC7F7237.quest_desc": [
+    "本整合包有一个&l商店&r。点击物品栏顶部的&l钱币&r图标即可打开。在右下角可以切换&l购买&r或&l出售&r",
+    "完成部分任务会解锁&l商店&r中的新物品，请留意&6&l金色边框&r&r的购买项",
+    "手持&l钱币&r右击即可消耗",
+    "打开&l玩家商店&r也可以绑定按键，可在控制设置中配置"
+  ],
+  "quest.214F31C0F22ECFCD.quest_desc": [
+    "[\"本整合包使用连锁挖掘，按住 \", {\"keybind\": \"key.ftbultimine.default.ftbultimine\", \"color\": \"aqua\", \"bold\": true }, \" 即可一次破坏多个方块！\"]",
+    "注意，在&lCaveopolis 2&r中，石头类方块无法被&l连锁挖掘&r"
+  ]
+}

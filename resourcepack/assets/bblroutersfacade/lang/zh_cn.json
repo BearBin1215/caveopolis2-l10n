@@ -1,0 +1,12 @@
+{
+  "creative.bblroutersfacade.tab": "BBL 路由器伪装板",
+  "item.bblroutersfacade.facade_applicator": "伪装板贴附器",
+  "item.bblroutersfacade.facade_applicator.actions.cleared_facade": "已清除路由器伪装板。",
+  "item.bblroutersfacade.facade_applicator.actions.cleared_picked_facade": "已清除选中的伪装板。",
+  "item.bblroutersfacade.facade_applicator.actions.no_facade": "未选中伪装板。右击方块以选取。",
+  "item.bblroutersfacade.facade_applicator.actions.applied_facade": "已应用伪装板：%s",
+  "item.bblroutersfacade.facade_applicator.actions.picked_facade": "已选取伪装板：%s",
+  "item.bblroutersfacade.facade_applicator.right_click": "右击方块以选择伪装板",
+  "item.bblroutersfacade.facade_applicator.shift_right_click": "潜行并右击以应用",
+  "item.bblroutersfacade.facade_applicator.right_click_air": "在空中右击以清除选中的伪装板"
+}

@@ -1,0 +1,21 @@
+{
+  "block.castingmb.mb_black_brick_glass": "多方块焦黑砖玻璃",
+  "block.castingmb.mb_black_bricks": "多方块焦黑砖块",
+  "block.castingmb.mb_controller": "铸造多方块控制器",
+  "block.castingmb.mb_interface": "多方块接口（BETA）",
+  "block.castingmb.mb_mixer": "多方块混合器（BETA）",
+  "block.castingmb.mb_regulator": "多方块调节器",
+  "block.castingmb.mb_solidifier": "铸造多方块固化器",
+  "block.castingmb.mb_tank": "铸造多方块储罐",
+  "itemGroup.castingmb": "Casting：多方块",
+  "jei.castingmb.entity_melting": "实体熔化",
+  "tooltip.castingmb.click_to_remove": "点击移除已设置的配方",
+  "tooltip.castingmb.empty": "空",
+  "tooltip.castingmb.empty_space": "可用空间",
+  "tooltip.castingmb.entity_melting": "造成 %s 点伤害（每 %s 刻）",
+  "tooltip.castingmb.interface.fluid_filter": "流体过滤器",
+  "tooltip.castingmb.interface.item_filter": "物品过滤器",
+  "tooltip.castingmb.no_fuel_cold_mb": "多方块结构中没有找到装有足够低温燃料的储罐，添加后可加快固化器速度！",
+  "tooltip.castingmb.no_fuel_mb": "多方块结构中没有找到温度足够高的燃料储罐！",
+  "tooltip.castingmb.stacked": "堆叠：%s"
+}

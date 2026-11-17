@@ -1,0 +1,21 @@
+# 本地参考资料与生成物
+.agents/references/
+work/
+dist/
+reports/
+__pycache__/
+*.py[cod]
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地环境、日志与压缩包
+.venv/
+venv/
+*.log
+*.zip
+*.jar

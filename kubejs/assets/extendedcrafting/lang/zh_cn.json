@@ -1,0 +1,13 @@
+{
+  "singularity.caveopolis.amethyst": "紫水晶",
+  "singularity.caveopolis.b_buck": "B币",
+  "singularity.caveopolis.cobblestone": "圆石",
+  "singularity.caveopolis.energy": "能量",
+  "singularity.caveopolis.experience": "经验",
+  "singularity.caveopolis.glacium": "冰川石",
+  "singularity.caveopolis.rainbow": "彩虹",
+  "singularity.caveopolis.scorchium": "灼热石",
+  "singularity.caveopolis.stone": "石头",
+  "item.extendedcrafting.singularity": "%s奇点",
+  "item.extendedcrafting.ultimate_singularity": "终极奇点"
+}

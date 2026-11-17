@@ -1,0 +1,19 @@
+{
+  "values": {
+    "caveopolis:trader_hut_light_gray_house": [
+      "格雷森先生"
+    ],
+    "caveopolis:trader_hut_kitchen": [
+      "戈登大厨"
+    ],
+    "caveopolis:trader_hut_farmer": [
+      "农夫乔"
+    ],
+    "caveopolis:trader_hut_mesh": [
+      "滤网大师"
+    ],
+    "caveopolis:trader_hut_explorer": [
+      "印第安纳·博恩斯"
+    ]
+  }
+}

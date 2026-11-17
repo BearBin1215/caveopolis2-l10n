@@ -1,0 +1,13 @@
+{
+  "itemGroup.infinitystorage": "无限存储",
+  "block.infinitystorage.infinity_storage_drive": "无限存储驱动器",
+  "item.infinitystorage.infinity_cobblestone_drive": "无限圆石硬盘",
+  "item.infinitystorage.infinity_water_drive": "无限水硬盘",
+  "item.infinitystorage.infinity_lava_drive": "无限熔岩硬盘",
+  "item.infinitystorage.infinity_dirt_drive": "无限泥土硬盘",
+  "item.infinitystorage.infinity_gravel_drive": "无限沙砾硬盘",
+  "item.infinitystorage.infinity_sand_drive": "无限沙子硬盘",
+  "item.infinitystorage.infinity_stone_drive": "无限石头硬盘",
+  "item.infinitystorage.empty_infinity_drive": "空无限硬盘",
+  "tooltip.infinitystorage.infinity_storage_drive": "装入无限硬盘后，将无限提供该资源！"
+}

@@ -1,0 +1,8 @@
+{
+  "block.sniffysniffers.sniffy_sniffer_egg": "灵敏嗅探兽蛋",
+  "entity.sniffysniffers.sniffy_sniffer": "灵敏嗅探兽",
+  "item.sniffysniffers.sniffy_sniffer_spawn_egg": "灵敏嗅探兽刷怪蛋",
+  "itemGroup.sniffysniffers": "Sniffy Sniffers",
+  "jei.sniffysniffers.chance": "概率：%s%%",
+  "jei.sniffysniffers.recipe_category": "灵敏嗅探兽会挖出……"
+}

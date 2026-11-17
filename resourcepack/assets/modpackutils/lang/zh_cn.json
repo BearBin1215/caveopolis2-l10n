@@ -1,0 +1,17 @@
+{
+  "chat.modpackutils.modpack": "你正在游玩 %s 版本 %s",
+  "chat.modpackutils.modpack_not_set": "请在配置文件中设置整合包信息：config/bbl/modpackutils/modpack.toml",
+  "chat.modpackutils.modpack_website": "访问整合包页面",
+  "chat.modpackutils.modpack_update": "整合包 %s 有新版本可用！",
+  "chat.modpackutils.modpack_up_date": "整合包已是最新版本！",
+  "chat.modpackutils.discord": "点击加入我们的 Discord 服务器！",
+  "chat.modpackutils.discord_not_set": "请在配置文件中设置 Discord 信息：config/bbl/modpackutils/modpack.toml",
+  "chat.modpackutils.discord_invalid_url": "URL 无效，请检查配置文件中的 Discord URL：config/bbl/modpackutils/modpack.toml",
+  "chat.modpackutils.falling.home": "一股神秘力量救下了你，将你送回家/出生点……",
+  "chat.modpackutils.modpack_no_version": "找不到整合包当前版本，也许这是开发实例？",
+  "chat.modpackutils.modpack_instance_error": "整合包实例文件出错",
+  "chat.modpackutils.modpack_no_instance": "找不到文件",
+  "chat.modpackutils.modpack_up_to_date": "整合包已是最新版本",
+  "chat.modpackutils.dev_environment": "找不到当前版本；如果你正在开发整合包，这不用担心",
+  "chat.modpackutils.modpack_invalid_instance": "实例文件无效"
+}

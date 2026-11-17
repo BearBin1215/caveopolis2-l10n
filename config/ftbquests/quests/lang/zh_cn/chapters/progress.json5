@@ -1,0 +1,475 @@
+{
+  "quest.43FEA643EF6309CA.quest_desc": [
+    "在基础机器中有一些用途",
+    "",
+    "&8───────────────",
+    "",
+    "Has some use in basic machines"
+  ],
+  "quest.5CED6BAE17CE4820.quest_desc": [
+    "让&8&l简易固化器&r&r可以制作&l齿轮&r",
+    "",
+    "&8───────────────",
+    "",
+    "Allows the &8&lSolidifier&r&r to make &lGears&r"
+  ],
+  "task.640B1C13B75E2BB3.title": "村民",
+  "quest.30F8F683DD0858B1.quest_desc": [
+    "简单的自动化",
+    "",
+    "&8───────────────",
+    "",
+    "Simple Automation"
+  ],
+  "quest.576E4244C4907C89.quest_desc": [
+    "在&l筛选&r&#8B4513&l纯化泥土&r&r时可以获得",
+    "",
+    "&8───────────────",
+    "",
+    "Can be found when &lStraining&r &#8B4513&lPurified Dirt&r&r"
+  ],
+  "quest.1ADF11DDB3E30968.quest_desc": [
+    "没错，只是一把&8&l石剑&r&r，但我敢说他还有更多东西可以交易",
+    "",
+    "&8───────────────",
+    "",
+    "Yeah its just a &8&lStone Sword&r&r but im sure he has more to offer"
+  ],
+  "quest.06048D8C7BEF856F.quest_desc": [
+    "在&l筛选&r&d&l纯化沙砾&r&r时可以获得",
+    "",
+    "&8───────────────",
+    "",
+    "Can be found when &lStraining&r &d&lPurified Gravel&r&r"
+  ],
+  "quest.3418F796830936F2.quest_desc": [
+    "在&l筛选&r&d&l纯化沙砾&r&r时可以获得",
+    "",
+    "&8───────────────",
+    "",
+    "Can be found when &lStraining&r &d&lPurified Gravel&r&r"
+  ],
+  "quest.2FEDA18546B1F907.quest_desc": [
+    "在&l高炉&r中用&9&l黏土块&r&r烧制，或由&8&l焦黑砖&r&r&l合成&r",
+    "",
+    "&8───────────────",
+    "",
+    "Made inside the &lBlast Furnace&r from &9&lClay Blocks&r&r or &lCrafted&r from &8&lBlack Brick&r&r"
+  ],
+  "quest.54535757CCA5C374.quest_desc": [
+    "一个超级热的熔炉",
+    "",
+    "&8───────────────",
+    "",
+    "A super hot furnace"
+  ],
+  "quest.6A03DF763B745B91.quest_desc": [
+    "&l切石机&r可以制作各种不同的方块",
+    "",
+    "&8───────────────",
+    "",
+    "The &lStonecutter&r can be used to create various different blocks"
+  ],
+  "quest.608514551E34637C.quest_desc": [
+    "一种特殊管道，可以对通过它的物品进行分类。它还有流体版本",
+    "",
+    "&8───────────────",
+    "",
+    "A special pipe that can be used to sort items that pass through it. There is also a fluid version of this"
+  ],
+  "quest.27491636AB3E4F99.quest_desc": [
+    "&8&l强化台&r&r是一种强大的方块，可以为物品添加&8&l强化&r&r。强化包括&l时运&r、&l耐久&r等等",
+    "",
+    "&8───────────────",
+    "",
+    "The &8&lModifier&r&r is a powerful block which can be used to add &8&lModifiers&r&r to items. Modifiers can include things like &lFortune,&r &lUnbreaking&r and many many more"
+  ],
+  "quest.1FFCB0AADBDC6897.quest_desc": [
+    "由&l矿石碎块&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted &lOre Piece&r"
+  ],
+  "quest.1FF85784BCE2E649.quest_desc": [
+    "使用&8&l结构罗盘&r&r可以在世界中找到一些&l建筑结构&r。一座&8&l淡灰色房屋&r&r听起来是个不错的开始",
+    "",
+    "&l&2结构所在 Y 轴高度：308&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Using the &8&lExplorer's Compass&r&r you can find a few &lStructures&r in the world. A &8&lLight Gray House&r&r sounds like a good start",
+    "",
+    " ",
+    "",
+    "&l&2Structure Y Level 308&r&r"
+  ],
+  "quest.7B7166160F6EDD53.quest_desc": [
+    "和其他水滴一样使用。&5&l简易燃料&r&r可以为&l铸造&r供能",
+    "",
+    "&8───────────────",
+    "",
+    "Works like other drops. &5&lMakeshift Fuel&r&r can be used to power &lCasting&r"
+  ],
+  "quest.6651CE0B1E01D35D.quest_desc": [
+    "&8&l简易混合器&r&r可以把最多 4 种不同的流体混合成 1 种。",
+    "",
+    "&8&l简易控制器&r&r会把其中的流体推入相邻的&8&l简易混合器&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "The &8&lMixer&r&r can be used to mix up to 4 different fluids into 1.",
+    "",
+    "A &8&lController&r&r will push its fluids into adjacent &8&lMixers&r&r "
+  ],
+  "quest.1B0799A8ADA37AAB.quest_subtitle": "解锁新的商店物品……",
+  "quest.2FD799AD45B6D2EE.quest_desc": [
+    "&8&l纯化沙砾&r&r是一种资源丰富的方块，含有&l矿石碎块&r",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lPurified Gravel&r&r is a resource rich block. Contains &lOre Pieces&r"
+  ],
+  "quest.4F6B4E731991EC98.quest_desc": [
+    "&l小麦种子&r是很棒的新手作物",
+    "",
+    "&8───────────────",
+    "",
+    "&lWheat Seeds&r are a great starter crop"
+  ],
+  "quest.5DA2D922281AE583.quest_desc": [
+    "用于将熔融流体&l固化&r，需要配合铸模使用",
+    "",
+    "&8───────────────",
+    "",
+    "Allows molten fluids to be &lSolidified&r, uses molds to work "
+  ],
+  "quest.4DD3D0FCA6B11109.quest_desc": [
+    "一种特殊管道，会销毁通过它的物品。它还有流体版本",
+    "",
+    "&8───────────────",
+    "",
+    "A special pipe that destroys items that go through it. There is also a fluid version of this"
+  ],
+  "quest.2C182F0169305191.quest_desc": [
+    "适合用于&l烧炼&r",
+    "",
+    "&8───────────────",
+    "",
+    "Useful for &lSmelting&r"
+  ],
+  "quest.057E4F0A708C7D81.quest_subtitle": "深度护符之一",
+  "quest.66B15A3486B8EFAB.quest_desc": [
+    "在&l洞穴&r中可以找到，继续往下挖！",
+    "",
+    "&8───────────────",
+    "",
+    "Found in the &lCaves&r keep digging down!"
+  ],
+  "quest.2203A25AAADF04AF.quest_desc": [
+    "让&8&l简易固化器&r&r可以制作&l方块&r",
+    "",
+    "&8───────────────",
+    "",
+    "Allows the &8&lSolidifier&r&r to make &lBlocks&r"
+  ],
+  "quest.142483FFDA40D2F6.quest_desc": [
+    "在&l洞穴&r中可以找到，继续往下挖！",
+    "",
+    "&8───────────────",
+    "",
+    "Found in the &lCaves&r keep digging down!"
+  ],
+  "quest.55C076AFA679DF2E.quest_desc": [
+    "在&l洞穴&r中可以找到，继续往下挖！",
+    "",
+    "&8───────────────",
+    "",
+    "Found in the &lCaves&r keep digging down!"
+  ],
+  "quest.0F8BE77479D537E4.quest_desc": [
+    "可以作为&l简易燃料&r的替代品使用",
+    "",
+    "&8───────────────",
+    "",
+    "Can be used as an alternative to &lMakeshift Fuel&r"
+  ],
+  "quest.0235F91BC896A949.quest_desc": [
+    "&8&l强化台&r&r需要&2&l熔融经验&r&r，你可以站到它上面，把自己的&2&l经验&r&r注入进去",
+    "",
+    "&8───────────────",
+    "",
+    "The &8&lModifier&r&r requires &2&lMolten Experience&r&r, You can stand ontop to drain your own &2&lExperience&r&r into it"
+  ],
+  "quest.6698882E0AE5954C.quest_desc": [
+    "&e&l纯化沙子&r&r是一种资源丰富的方块",
+    "",
+    "&8───────────────",
+    "",
+    "&e&lPurified Sand&r&r is a resource rich block"
+  ],
+  "quest.0538F15CAFE0AF67.quest_subtitle": "解锁新的交易……",
+  "quest.028F4D186FB5E12C.quest_desc": [
+    "一种用途广泛的金属，可用于工具和盔甲",
+    "",
+    "&8───────────────",
+    "",
+    "A versatile metal can be used for tools and armor"
+  ],
+  "quest.6B49788EE51FC233.quest_desc": [
+    "一种强大的工具，可以快速铺设管道",
+    "",
+    "&8───────────────",
+    "",
+    "A powerful that can be used to lay pipes quickly"
+  ],
+  "quest.311CC25250F26919.quest_desc": [
+    "让&8&l简易固化器&r&r可以制作&l锭&r",
+    "",
+    "&8───────────────",
+    "",
+    "Allows the &8&lSolidifier&r&r to make &lIngots&r"
+  ],
+  "quest.05B5D636047A7CD6.quest_desc": [
+    "和&8&l迷你木炭&r&r一样，可以烧炼一个物品",
+    "",
+    "&8───────────────",
+    "",
+    "Like &8&lMini Charcoal&r&r can smelt a single item"
+  ],
+  "quest.66A782625C97CECF.quest_desc": [
+    "&8&l格雷森先生&r&r不太信任别人。也许先从他那里买点东西会有助于赢得他的信任",
+    "",
+    "&8───────────────",
+    "",
+    "&8&lMr Grayson&r&r is not very trusting. Maybe buying some stuff off him first will help gain his trust"
+  ],
+  "quest.1ADF11DDB3E30968.quest_subtitle": "解锁新的交易……",
+  "task.36B37AC6D35892FC.title": "熔融经验",
+  "quest.4C5656FD8004FA33.quest_desc": [
+    "&8&l结构罗盘&r&r可以用来寻找世界中的一些建筑结构",
+    "",
+    "&8───────────────",
+    "",
+    "The &8&lExplorers Compass&r&r can be used to find some structures in the world"
+  ],
+  "quest.066AEA337AA76361.quest_desc": [
+    "&8&l简易储罐&r&r需要放在&8&l简易控制器&r&r旁边来提供&l燃料&r，&8&l简易控制器&r&r才能工作。",
+    "",
+    "&5&l简易燃料&r&r是你能获得的第一种燃料",
+    "",
+    "&8───────────────",
+    "",
+    "A &8&lTank&r&r is required adjacent to a &8&lController&r&r to provide &lFuel&r for the &8&lController&r&r to work.",
+    "",
+    "&5&lMakeshift Fuel&r&r is the first fuel type you can obtain"
+  ],
+  "quest.1FF85784BCE2E649.title": "朋友？",
+  "quest.6747E62B04A410FD.quest_desc": [
+    "&l流体管理器&r可以在所有&l铸造&r方块之间移动流体。",
+    "",
+    "抽取流体时，主手持&l流体管理器&r，按住 Shift 滚动滚轮选中“空”，然后右击&l铸造&r方块即可取出流体。注入时操作相同，只是先选中要注入的流体",
+    "",
+    "&8───────────────",
+    "",
+    "The &lFluid Manager&r can be used to move fluids between all &lCasting&r blocks. ",
+    "",
+    "To extract fluids hold the &lFluid Manager&r in your Main Hand a hold Shift and Scroll to get to Empty. Then right click on the &lCasting&r block to take the fluid. To insert you do the same thing except select the fluid you want to insert "
+  ],
+  "quest.057E4F0A708C7D81.quest_desc": [
+    "让你能在&l洞穴&r中前往更深处",
+    "",
+    "&8───────────────",
+    "",
+    "Allows you to go deeper inside the &lCaves&r"
+  ],
+  "quest.178205F16A3040FA.quest_desc": [
+    "一种基础锭",
+    "",
+    "&8───────────────",
+    "",
+    "A basic ingot"
+  ],
+  "quest.404A4D3B35389AFE.quest_desc": [
+    "有一些用途",
+    "",
+    "&8───────────────",
+    "",
+    "Has a few uses "
+  ],
+  "quest.3D96B87FE83E5200.quest_desc": [
+    "由&l矿石碎块&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted &lOre Piece&r"
+  ],
+  "quest.7A1797E584C7CE65.quest_desc": [
+    "一个可种植作物的单方块",
+    "",
+    "&8───────────────",
+    "",
+    "A single block that can be used to grow crops"
+  ],
+  "quest.5C94A7E74ED28A26.quest_desc": [
+    "在&l筛选&r&d&l纯化沙砾&r&r时可以获得",
+    "",
+    "&8───────────────",
+    "",
+    "Can be found when &lStraining&r &d&lPurified Gravel&r&r"
+  ],
+  "quest.1B0799A8ADA37AAB.title": "最初的合金",
+  "quest.30F8F683DD0858B1.title": "破坏与放置",
+  "quest.1B0799A8ADA37AAB.quest_desc": [
+    "在&8&l简易混合器&r&r中用&6&l熔融铜&r&r和&l熔融锡&r可以制得&l&6熔融青铜&r&r",
+    "",
+    "在&8&l简易混合器&r&r中用&6&l熔融铜&r&r和&l熔融锌&r可以制得&l&6熔融黄铜&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "&l&6Molten Bronze&r&r can be made in the &8&lMixer&r&r from &6&lMolten Copper&r&r and &lMolten Tin&r",
+    "",
+    "&l&6Molten Brass&r&r can be made in the &8&lMixer&r&r from &6&lMolten Copper&r&r and &lMolten Zinc&r"
+  ],
+  "quest.430BBDC119C632CB.quest_desc": [
+    "第一种&l管道&r，可以从容器中抽取物品。需要&l&4红石&r&r供能。前期用&l拉杆&r最合适",
+    "",
+    "&8───────────────",
+    "",
+    "The first &lPipe&r, can be used to extract from inventories. Must be powered with &l&4Redstone&r&r. &lLevers&r are the best option early"
+  ],
+  "quest.703F644650E3A8E0.quest_desc": [
+    "&#8B4513&l纯化泥土&r&r是一种资源丰富的方块，含有各种不同的&l种子&r",
+    "",
+    "&8───────────────",
+    "",
+    "&#8B4513&lPurified Dirt&r&r is a resource rich block. Contains various different &lSeeds&r"
+  ],
+  "quest.4C14F77202BA109E.quest_desc": [
+    "&8&l淡灰色房屋&r&r里的&l商人&r会和你交易！&8&l钱币模具&r&r可以制作&6&l钱币&r&r，用来增加你的&6&lB币&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "The &lTrader&r in the &8&lLight Gray House&r&r will trade with you! A &8&lCoin Mold&r&r allows you to make &6&lCoins&r&r which can be used to increase you &6&lB Bucks&r&r"
+  ],
+  "quest.0538F15CAFE0AF67.quest_desc": [
+    "又只是一把&8&l石镐&r&r，不过至少能换到不错的交易",
+    "",
+    "&8───────────────",
+    "",
+    "Again its just a &8&lStone Pickaxe&r&r but at least we are getting some good deals"
+  ],
+  "quest.0F5BEFD1CE204A24.quest_desc": [
+    "在&l筛选&r&d&l纯化沙砾&r&r时可以获得",
+    "",
+    "&8───────────────",
+    "",
+    "Can be found when &lStraining&r &d&lPurified Gravel&r&r"
+  ],
+  "quest.07FE1049EEFCDD98.quest_desc": [
+    "&l压实机&r可以自动合成 2×2 和 3×3 配方，适合处理&l矿石碎块&r",
+    "",
+    "&l经典管道&r无法正确填充&l压实机&r，请改用&l漏斗&r来填充&l压实机&r",
+    "",
+    "&8───────────────",
+    "",
+    "The &lCompactor&r can be used to automatically craft 2x2 and 3x3 recipes. Useful for &lOre Pieces&r",
+    "",
+    "&lClassic Pipes&r do not fill the &lCompactor&r correctly, use a &lHopper&r to fill the &lCompactor&r instead"
+  ],
+  "quest.5C099B7D8CD00A81.quest_desc": [
+    "由&l矿石碎块&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted &lOre Piece&r"
+  ],
+  "quest.55E88FA4AB62590D.quest_desc": [
+    "由&l矿石碎块&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted &lOre Piece&r"
+  ],
+  "quest.4DDD0ABE9C6B50E4.quest_desc": [
+    "由&l矿石碎块&r合成",
+    "",
+    "&8───────────────",
+    "",
+    "Crafted &lOre Piece&r"
+  ],
+  "quest.62634C4B890CEB67.quest_desc": [
+    "&l路由器&r是一个强大的&l物品&r、&o能量&r和&l流体&r运输模组。使用&l连接器&r把&l输入口&r连接到&l输出口&r",
+    "",
+    "&l输出口&r需要安装对应的升级才能运输特定资源",
+    "",
+    "&8───────────────",
+    "",
+    "&lRouters&r is a powerful &lItem&r, &oEnergy&r and &lFluid&r transportation mod. Connect &lImporters&r to &lExporters&r using the &lConnector.&r ",
+    "",
+    "A &lExporter&r needs the right upgrade to move that particular resource"
+  ],
+  "quest.1815384B558220FF.quest_desc": [
+    "作用与&1&l水滴&r&r相同，但生成的是&d&l纯化水&r&r",
+    "",
+    "&8───────────────",
+    "",
+    "Works just like the &1&lWater Drop&r&r except it makes &d&lPurifying Water&r&r instead"
+  ],
+  "quest.6462CF6837FA156F.quest_desc": [
+    "好吃",
+    "",
+    "&8───────────────",
+    "",
+    "Tasty"
+  ],
+  "quest.62634C4B890CEB67.title": "路由器",
+  "quest.4A368A9E7EB301D9.quest_desc": [
+    "按住 Shift 右击&l村民&r，可以用动物网把它抓起来",
+    "",
+    "&8───────────────",
+    "",
+    "&lVillagers&r can be shift right clicked on to be picked up with a Animal Net"
+  ],
+  "quest.227407A295AC5421.quest_desc": [
+    "简单的&l小麦&r",
+    "",
+    "&8───────────────",
+    "",
+    "Simple &lWheat&r"
+  ],
+  "quest.095246E37A727FA8.quest_desc": [
+    "在&l高炉&r中用&9&l黏土&r&r烧制",
+    "",
+    "&8───────────────",
+    "",
+    "Made inside the &lBlast Furnace&r from &9&lClay&r&r"
+  ],
+  "quest.7E764FD0BE5884F8.quest_desc": [
+    "在&l筛选&r&d&l纯化沙砾&r&r时可以获得",
+    "",
+    "&8───────────────",
+    "",
+    "Can be found when &lStraining&r &d&lPurified Gravel&r&r"
+  ],
+  "quest.0F8BE77479D537E4.quest_subtitle": "解锁新的交易……",
+  "quest.5EEBFF7FDA5F6278.quest_desc": [
+    "&8&l简易控制器&r&r是&l铸造&r的核心方块，用于把物品熔化成对应的熔融形态",
+    "",
+    "&8&l简易控制器&r&r需要旁边有一个装有燃料的&8&l简易储罐&r&r才能工作。&5&l简易燃料&r&r是第一种燃料",
+    "",
+    "&8───────────────",
+    "",
+    "The &8&lController&r&r is the main block for &lCasting&r. It is used to melt items into there molten variants",
+    "",
+    "A &8&lController&r&r requires a &8&lTank&r&r with a fuel to work. &5&lMakeshift Fuel&r&r is the first type of fuel"
+  ],
+  "quest.7267910A9B437B2A.quest_desc": [
+    "&l放置器&r是一种强大的物品，可以让建家更轻松。它可以放置房间，让建造更方便",
+    "",
+    "&8───────────────",
+    "",
+    "The &lPlacer&r is a powerful item that can be used to make your base a bit easier. Allows the creation of rooms to make building easier"
+  ],
+  "quest.66A782625C97CECF.quest_subtitle": "解锁新的交易……"
+}

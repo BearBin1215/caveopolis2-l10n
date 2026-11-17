@@ -1,0 +1,8 @@
+{
+  "tooltip.justenoughrecipesharing.share": "分享此配方。",
+  "misc.justenoughrecipesharing.shared_recipe": "%s 分享了配方：%s",
+  "misc.justenoughrecipesharing.unknown": "未知",
+  "misc.justenoughrecipesharing.share_cooldown": "请等待 %s 秒后再分享其他配方。",
+  "text.autoconfig.justenoughrecipesharing.option.showSharedRecipesInChat": "在聊天栏显示分享的配方",
+  "text.autoconfig.justenoughrecipesharing.option.showSharedRecipesInChat.@Tooltip": "分享配方时显示一条聊天消息"
+}

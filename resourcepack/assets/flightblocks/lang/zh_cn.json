@@ -1,0 +1,10 @@
+{
+  "block.flightblocks.flight_block": "飞行方块",
+  "chat.flightblocks.disabled": "飞行已禁用",
+  "chat.flightblocks.enabled": "飞行已启用",
+  "chat.flightblocks.info": "放置到世界中后，可在方块周围飞行！范围：%s",
+  "chat.flightblocks.range": "范围：%s，正在显示范围，右击可关闭范围显示！",
+  "itemGroup.flightblocks": "飞行方块",
+  "tooltip.flightblocks.flight_block": "可在方块周围飞行！右击显示范围",
+  "tooltip.flightblocks.shift": "按住 Shift 查看详情"
+}

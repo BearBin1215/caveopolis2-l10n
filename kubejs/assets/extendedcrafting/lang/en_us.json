@@ -1,0 +1,13 @@
+{
+  "singularity.caveopolis.amethyst": "Amethyst",
+  "singularity.caveopolis.b_buck": "B Buck",
+  "singularity.caveopolis.cobblestone": "Cobblestone",
+  "singularity.caveopolis.energy": "Energy",
+  "singularity.caveopolis.experience": "Experience",
+  "singularity.caveopolis.glacium": "Glacium",
+  "singularity.caveopolis.rainbow": "Rainbow",
+  "singularity.caveopolis.scorchium": "Scorchium",
+  "singularity.caveopolis.stone": "Stone",
+  "item.extendedcrafting.singularity": "%s Singularity",
+  "item.extendedcrafting.ultimate_singularity": "Ultimate Singularity"
+}

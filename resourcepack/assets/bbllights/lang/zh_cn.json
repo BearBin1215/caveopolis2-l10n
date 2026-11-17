@@ -1,0 +1,12 @@
+{
+  "block.bbllights.invisible_light_spreader": "隐形光源扩散器",
+  "block.bbllights.light": "隐形光源",
+  "item.bbllights.diamond_invisible_light_placer": "钻石隐形光源放置器",
+  "item.bbllights.invisible_light": "隐形光源",
+  "item.bbllights.iron_invisible_light_placer": "铁隐形光源放置器",
+  "item.bbllights.netherite_invisible_light_placer": "下界合金隐形光源放置器",
+  "itemGroup.bbllights": "BBL 隐形光源",
+  "tooltip.bbllights.light_level": "放置的光照等级：%s",
+  "tooltip.bbllights.light_spreader": "在你周围 %s 格半径内放置隐形光源方块",
+  "tooltip.bbllights.shift": "按住 Shift 查看详情"
+}
