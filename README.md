@@ -8,7 +8,7 @@
 
 ## 使用
 
-- 前往 [releases 页面](https://github.com/BearBin1215/caveopolis2-l10n/releases)下载对应版本的汉化包，解压后覆盖到游戏目录。
+- 前往 [releases 页面](https://github.com/BearBin1215/caveopolis2-l10n/releases)下载对应版本的汉化包，解压后覆盖到游戏目录。资源包文件名固定为 `resourcepacks/Caveopolis2-zh_cn.zip`，升级时直接覆盖即可；如果之前装过带版本号的旧资源包，请先删除，避免同时启用两个汉化包。
 - 压缩包内的 `mods/strainers-*.jar` 是修补版，用于让矿石碎块使用中文名称；解压时会覆盖原模组。整合包更新后需要重新解压本包；如果 `mods` 目录同时出现两个版本的 strainers，请删除旧版修补 jar。
 - 安装 [I18nUpdateMod](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod) 3.7.1 或更高版本，把 jar 放入 mods 目录。
 - 在资源包界面把本汉化包置于 i18n 资源包之上。

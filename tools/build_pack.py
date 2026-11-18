@@ -21,6 +21,8 @@ from strainers_patch import write_patched_jar
 
 BUILD = DIST / "build" / f"Caveopolis2-zh_cn-{RELEASE_VERSION}"
 PACK_NAME = f"Caveopolis2-zh_cn-{RELEASE_VERSION}"
+# 资源包文件名固定，升级时直接覆盖，避免资源包界面积累多个版本、启用状态需要重设。
+RESOURCEPACK_NAME = "Caveopolis2-zh_cn"
 
 INSTALL = """Caveopolis 2 汉化包 {version}
 
@@ -31,6 +33,7 @@ INSTALL = """Caveopolis 2 汉化包 {version}
 4. 任务书语言目录以及 kubejs、config 文件不受资源包顺序影响。
 
 说明
+- 资源包文件名固定为 resourcepacks/Caveopolis2-zh_cn.zip，升级时直接覆盖即可；之前装过带版本号的旧资源包请删除，避免同时启用两个汉化包。
 - 通用模组文本由 I18nUpdateMod 和 i18n 资源包提供，本包不附带。
 - 本包只覆盖整合包自有内容和作者模组的文本。
 - 未翻译的通用模组文本保持英文。
@@ -56,7 +59,7 @@ def reset_build() -> None:
 
 
 def zip_resourcepack() -> Path:
-    target = BUILD / "resourcepacks" / f"{PACK_NAME}.zip"
+    target = BUILD / "resourcepacks" / f"{RESOURCEPACK_NAME}.zip"
     target.parent.mkdir(parents=True, exist_ok=True)
     with zipfile.ZipFile(target, "w", zipfile.ZIP_DEFLATED) as archive:
         for path in sorted(RESOURCEPACK.rglob("*")):
