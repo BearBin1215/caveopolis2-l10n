@@ -58,7 +58,7 @@ TITLES = {
     "Mystical Enlightment": "神秘启示",
     "Mystical Enlightenment": "神秘启示",
     "Wither Skeleton": "凋灵骷髅",
-    "Easy Piglins": "简易猪灵",
+    "Easy Piglins": "轻松搬运猪灵",
     "Piglins": "猪灵",
     "Piglin Trading": "猪灵交易",
     "Tier 4 Seeds": "4 级种子",

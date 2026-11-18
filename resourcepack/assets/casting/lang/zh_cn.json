@@ -182,9 +182,9 @@
   "itemGroup.casting": "Casting",
   "jei.casting.fuel": "燃料 / 冷却液",
   "jei.casting.fuel_temp": "燃料温度：%s",
-  "jei.casting.information.controller": "控制器是 Casting 的核心，用于将物品熔化为熔融形态。\n\n控制器需要相邻的储罐装有高温流体才能工作。\n\n放在固化器或混合器旁边时，控制器会自动将流体推送过去。",
-  "jei.casting.information.mixer": "混合器用于将多种流体混合在一起。\n\n控制器会将流体推送进混合器，混合器会将流体推送进固化器。",
-  "jei.casting.information.solidifier": "固化器用于将流体转化为物品，通常会使用模具。\n\n相邻的储罐装入低温流体可以加快固化器的固化速度。\n\n放在控制器旁边时，固化器会自动从控制器抽取流体。",
+  "jei.casting.information.controller": "控制器是 Casting 的核心方块，用于把物品熔化成熔融流体。\n\n控制器需要相邻的储罐装有高温流体才能工作。\n\n放在固化器或混合器旁边时，控制器会自动把流体推送过去。",
+  "jei.casting.information.mixer": "混合器用于把多种流体混合在一起。\n\n控制器会把流体推送进混合器，混合器则会把流体推送进固化器。",
+  "jei.casting.information.solidifier": "固化器用于把流体转化为物品，通常需要使用铸模。\n\n相邻的储罐装入低温流体可以加快固化速度。\n\n放在控制器旁边时，固化器会自动从控制器抽取流体。",
   "jei.casting.melting": "熔化",
   "jei.casting.melting_temp": "熔化温度：%s",
   "jei.casting.mixing": "混合",
@@ -194,8 +194,8 @@
   "tooltip.casting.experience_ball": "右击消耗并获得经验",
   "tooltip.casting.fluid": "已选择：%s",
   "tooltip.casting.fluids_header": "流体：",
-  "tooltip.casting.molds_header": "模具：",
+  "tooltip.casting.molds_header": "铸模：",
   "tooltip.casting.no_coolant": "附近没有储罐。放置储罐并注入冷却液可加快固化器速度！",
   "tooltip.casting.no_fuel": "附近没有储罐。放置储罐并注入燃料即可开始熔化！",
-  "tooltip.casting.storage_molds": "已存储模具"
+  "tooltip.casting.storage_molds": "已存储铸模"
 }

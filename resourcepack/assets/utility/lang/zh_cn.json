@@ -79,7 +79,7 @@
   "tooltip.utility.death_stone": "死亡时获得，右击可返回死亡地点",
   "tooltip.utility.empty": "空",
   "tooltip.utility.empty_filter": "空过滤器",
-  "tooltip.utility.floater": "放在副手时，可让你在空中或水中放置主手中的方块",
+  "tooltip.utility.floater": "放在副手时，可以在空中或水中放置主手中的方块",
   "tooltip.utility.fluids_header": "流体：",
   "tooltip.utility.range_button.hidden": "隐藏",
   "tooltip.utility.range_button.mode": "范围：%s",

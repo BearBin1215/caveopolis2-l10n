@@ -385,7 +385,7 @@ EXACT.update({
     "Faded Purple": "褪色紫",
     "Shiny Raw": "粗制亮面",
     "Neutral": "无表情",
-    "Smooth & Flat Sandstone": "平滑与平坦砂岩",
+    "Smooth & Flat Sandstone": "平滑平坦砂岩",
     "Small Ornate": "小型华丽纹",
     "Small Red Nether Brick": "小块红色下界砖",
     "Wide Marble Pillar with Greek Capstone": "带希腊柱头的宽大理石柱",

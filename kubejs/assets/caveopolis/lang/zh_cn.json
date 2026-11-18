@@ -132,7 +132,7 @@
   "layer.caveopolis.layer_6": "第 6 层",
   "layer.caveopolis.layer_7": "第 7 层",
   "message.caveopolis.deeper_charm_required": "§c你需要更高阶的深度护符才能在这里挖掘！",
-  "message.caveopolis.layer_locked": "§c使用该颜色前，你需要先到达这一层！",
+  "message.caveopolis.layer_locked": "§c你需要先到达对应的层数，才能使用这种颜色！",
   "message.caveopolis.layer_unlocked": "已解锁 %s！",
   "tooltip.caveopolis.mines_3x3": "挖掘 3×3 区域",
   "tooltip.caveopolis.placer_hint": "与放置器配合使用，里面会有什么？",

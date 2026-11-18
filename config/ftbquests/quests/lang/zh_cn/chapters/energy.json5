@@ -14,7 +14,7 @@
     "&8&lOil&r&r sweet sweet &8&lBlack Gold&r&r"
   ],
   "quest.05E6F3CAC51D668D.quest_desc": [
-    "用大量能量&l充能&r物品，从而制造新的物品",
+    "用大量能量给物品&l充能&r，制造新的物品",
     "",
     "&8───────────────",
     "",
@@ -57,14 +57,14 @@
     "An alloy of &lIron&r and &2&lEnder&r&r. Can be made in the &lAlloy Smelter&r and &8&lMixer&r&r"
   ],
   "quest.3E07C9D228BDE99E.quest_desc": [
-    "像&b&l钻石&r&r，但是&2&l绿色&r&r",
+    "像&b&l钻石&r&r，不过是&2&l绿色&r&r的",
     "",
     "&8───────────────",
     "",
     "Like &b&lDiamonds&r&r but &2&lGreen&r&r"
   ],
   "quest.07F733BEFA8BCC8B.quest_desc": [
-    "&l反应堆&r是一种使用&l晶质铀&r发电的多方块结构，需要 36 个方块",
+    "&l反应堆&r是一种使用&l晶质铀&r发电的多方块结构，由 36 个方块搭建而成",
     "",
     "&8───────────────",
     "",
@@ -85,7 +85,7 @@
     "Can be found when &lStraining&r &5&lPurified Gravel&r&r"
   ],
   "quest.4CC660FBDF487978.quest_desc": [
-    "与&l充能台&r配合为其供能，多个充能棒可为同一台&l充能台&r供能",
+    "与&l充能台&r配合使用并为其供能；多根充能棒可为同一台&l充能台&r供能",
     "",
     "&8───────────────",
     "",
@@ -141,14 +141,14 @@
     "Made in the &lEnergizing Orb&r with &2&lUranium&r&r and &l&dFluorite&r&r"
   ],
   "quest.21CDFA938C900A00.quest_desc": [
-    "让你能在&l洞穴&r中前往更深处",
+    "可前往&l洞穴&r更深处",
     "",
     "&8───────────────",
     "",
     "Allows you to go deeper inside the &lCaves&r"
   ],
   "quest.0C8BACE555B9B764.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -336,14 +336,14 @@
     "Crafted with &8&lOre Pieces&r&r. Ores can then be broken "
   ],
   "quest.309D64CADEF7D3AE.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
     "Found in the &lCaves&r keep digging down!"
   ],
   "quest.2A256806F4AE56B3.quest_desc": [
-    "一种简单的发电机器，使用&8&l煤炭&r&r和其他可燃物产生 RF",
+    "一种简单的发电机，使用&8&l煤炭&r&r和其他可燃物产生 RF",
     "",
     "&8───────────────",
     "",
@@ -358,7 +358,7 @@
     "&e&lElectrum&r&r is an alloy of &e&lGold&r&r and &lSilver&r"
   ],
   "quest.238A3718396F56C1.quest_desc": [
-    "用于将物品合成为合金。齿轮可以用&l铸造&r制作",
+    "用于将物品合成为合金。齿轮可以通过&l铸造&r制作",
     "",
     "&8───────────────",
     "",

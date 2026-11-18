@@ -57,7 +57,7 @@
     "Made inside the &lBlast Furnace&r from &9&lClay Blocks&r&r or &lCrafted&r from &8&lBlack Brick&r&r"
   ],
   "quest.54535757CCA5C374.quest_desc": [
-    "一个超级热的熔炉",
+    "一个温度极高的熔炉",
     "",
     "&8───────────────",
     "",
@@ -78,7 +78,7 @@
     "A special pipe that can be used to sort items that pass through it. There is also a fluid version of this"
   ],
   "quest.27491636AB3E4F99.quest_desc": [
-    "&8&l强化台&r&r是一种强大的方块，可以为物品添加&8&l强化&r&r。强化包括&l时运&r、&l耐久&r等等",
+    "&8&l强化台&r&r是一种强力的方块，可以给物品添加&8&l强化&r&r，例如&l时运&r、&l耐久&r等，还有很多其他种类",
     "",
     "&8───────────────",
     "",
@@ -160,7 +160,7 @@
   ],
   "quest.057E4F0A708C7D81.quest_subtitle": "深度护符之一",
   "quest.66B15A3486B8EFAB.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -174,14 +174,14 @@
     "Allows the &8&lSolidifier&r&r to make &lBlocks&r"
   ],
   "quest.142483FFDA40D2F6.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
     "Found in the &lCaves&r keep digging down!"
   ],
   "quest.55C076AFA679DF2E.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -277,7 +277,7 @@
     "To extract fluids hold the &lFluid Manager&r in your Main Hand a hold Shift and Scroll to get to Empty. Then right click on the &lCasting&r block to take the fluid. To insert you do the same thing except select the fluid you want to insert "
   ],
   "quest.057E4F0A708C7D81.quest_desc": [
-    "让你能在&l洞穴&r中前往更深处",
+    "可前往&l洞穴&r更深处",
     "",
     "&8───────────────",
     "",
@@ -346,7 +346,7 @@
     "&#8B4513&lPurified Dirt&r&r is a resource rich block. Contains various different &lSeeds&r"
   ],
   "quest.4C14F77202BA109E.quest_desc": [
-    "&8&l淡灰色房屋&r&r里的&l商人&r会和你交易！&8&l钱币模具&r&r可以制作&6&l钱币&r&r，用来增加你的&6&lB币&r&r",
+    "&8&l淡灰色房屋&r&r里的&l商人&r会和你交易！&8&l钱币铸模&r&r可以制作&6&l钱币&r&r，用来增加你的&6&lB币&r&r",
     "",
     "&8───────────────",
     "",
@@ -399,7 +399,7 @@
     "Crafted &lOre Piece&r"
   ],
   "quest.62634C4B890CEB67.quest_desc": [
-    "&l路由器&r是一个强大的&l物品&r、&o能量&r和&l流体&r运输模组。使用&l连接器&r把&l输入口&r连接到&l输出口&r",
+    "&l路由器&r是一个强大的&l物品&r、&o能量&r和&l流体&r运输模组。使用&l连接器&r将&l输入口&r与&l输出口&r连接起来",
     "",
     "&l输出口&r需要安装对应的升级才能运输特定资源",
     "",
@@ -465,7 +465,7 @@
     "A &8&lController&r&r requires a &8&lTank&r&r with a fuel to work. &5&lMakeshift Fuel&r&r is the first type of fuel"
   ],
   "quest.7267910A9B437B2A.quest_desc": [
-    "&l放置器&r是一种强大的物品，可以让建家更轻松。它可以放置房间，让建造更方便",
+    "&l放置器&r是一件强力的物品，可以放置房间，让基地建设稍微轻松一些",
     "",
     "&8───────────────",
     "",

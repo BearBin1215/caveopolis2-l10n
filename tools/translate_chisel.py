@@ -362,7 +362,7 @@ OTHER = {
     "item.chisel.measuring_tape": "卷尺",
     "item.chisel.offset_tool": "末影偏移魔杖",
     "item.chisel.offset_tool.desc": "右击高亮方向以偏移纹理",
-    "item.chisel.offset_tool.desc2": "只会高亮可以偏移的纹理",
+    "item.chisel.offset_tool.desc2": "只高亮可偏移的纹理",
     "item.chisel.smashing_rock.desc": "右击投掷，撞击时粉碎方块",
     "item.chisel.smashingrock": "粉碎石",
     "item.chisel.upgrade_automation": "自动化升级",

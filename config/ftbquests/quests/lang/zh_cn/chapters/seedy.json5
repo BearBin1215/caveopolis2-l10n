@@ -79,7 +79,7 @@
     "&lMystical&r and Mag&lical&r"
   ],
   "quest.1AD01FD4435B443F.quest_desc": [
-    "让你能在&l洞穴&r中前往更深处",
+    "可前往&l洞穴&r更深处",
     "",
     "&8───────────────",
     "",
@@ -111,7 +111,7 @@
     "Your first tier of &lSeeds&r"
   ],
   "quest.6D70CC9FF8B493C1.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -189,7 +189,7 @@
     "Some &lMystical Agriculture&r crops require a &lCruz&r below the farmland in order to grow, The &lBase Crux&r is the base of all &lCrux's&r"
   ],
   "quest.124610E2F4303D0A.quest_desc": [
-    "一种用于数字存储的强大水晶",
+    "一种用于数字存储的强力水晶",
     "",
     "&8───────────────",
     "",
@@ -224,7 +224,7 @@
     "Made by &lInfusing&r &l&2Inferium&r&r and &lElemental Essence&r into a &lEmpty Heart&r"
   ],
   "quest.62D58C4FEDCAD7E7.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -266,7 +266,7 @@
     "Allows the creation of some blocks like &lColored Stone&r"
   ],
   "quest.1C525C1E3F7189A4.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -366,7 +366,7 @@
     "Can be found when &lStraining&r &4&lPurified Netherack&r&r"
   ],
   "quest.7C66E941384CBA19.quest_desc": [
-    "必须放在&2&l下级耕地&r&r下方才能种植&l元素种子&r",
+    "必须放在&2&l下级耕地&r&r下方，&l元素种子&r才能生长",
     "",
     "&8───────────────",
     "",

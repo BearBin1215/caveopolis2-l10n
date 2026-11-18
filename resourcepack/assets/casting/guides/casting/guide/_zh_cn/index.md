@@ -10,6 +10,6 @@ navigation:
 
 ## Casting
 
-Casting 是一个允许你将物品熔化为熔融形态的模组！这些熔融流体随后可以固化为宝石、粒、块和锭等各种不同的物品。
+Casting 能将物品熔化成熔融流体，再把这些流体固化成宝石、粒、块、锭等各种物品。
 
 ![Logo](assets/casting.png)

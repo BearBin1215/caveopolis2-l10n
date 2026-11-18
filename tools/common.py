@@ -25,7 +25,7 @@ REPORTS = ROOT / "reports"
 DIST = ROOT / "dist"
 
 MODPACK_VERSION = "0.18.0"
-RELEASE_VERSION = "0.18.0-r1"
+RELEASE_VERSION = "0.18.0-r2"
 
 # 命名空间到模组 jar 文件名前缀的映射，只列出作者模组。
 AUTHOR_MODS = {

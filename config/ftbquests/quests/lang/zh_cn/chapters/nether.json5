@@ -35,7 +35,7 @@
     "Can &lBarter&r for you"
   ],
   "quest.2BABD56D4A0D2D23.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -64,7 +64,7 @@
   ],
   "task.23D0EC04EC40F16F.title": "任意 4 级神秘种子",
   "quest.3B117D2C5B3FEDFE.quest_desc": [
-    "一种极其稀有的粉末，由&l凋灵&r和&l末影龙&r掉落。需要使用带有&l神秘启示&r的剑",
+    "一种极其稀有的粉末，可从&l凋灵&r和&l末影龙&r身上掉落。需要使用带有&l神秘启示&r的剑",
     "",
     "神秘启示附魔书可以用附魔器制作",
     "",
@@ -192,11 +192,11 @@
     "",
     "The &lExplorer&r has visited many structures throughout their lives. They will trade coins for&6 &lStructure Tokens&r&r"
   ],
-  "task.31EFCFC511441F1A.title": "简易猪灵",
+  "task.31EFCFC511441F1A.title": "轻松搬运猪灵",
   "quest.57853FD3FD66315A.quest_desc": [
     "&l结构战利品生成器&r可以生成建筑结构的战利品",
     "",
-    "使用它需要&l结构令牌&r以及&lRF&r。可以在&l商人小屋：探险家&r中向&l商人&r购买",
+    "使用它需要&l结构令牌&r以及&lRF&r。可在&l商人小屋：探险家&r中向&l商人&r购买",
     "",
     "&8───────────────",
     "",
@@ -235,7 +235,7 @@
     "The &8&lWither Skeleton&r&r has a chance to drop a &8&lWither Skeleton Skull&r&r. &lSwords&r can be modified to have &lBeheading&r which will always drop a &8&lSkull&r&r"
   ],
   "quest.0035186B7EF3BDA7.quest_desc": [
-    "让你能在&l洞穴&r中前往更深处",
+    "可前往&l洞穴&r更深处",
     "",
     "&8───────────────",
     "",
@@ -286,7 +286,7 @@
     "Even better seeds"
   ],
   "quest.37D7B1A96EB438C1.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",
@@ -314,7 +314,7 @@
     "Broken down &lNether Star&r"
   ],
   "quest.5061AACF351652E0.quest_desc": [
-    "在&l洞穴&r中可以找到，继续往下挖！",
+    "可在&l洞穴&r中找到，继续往下挖！",
     "",
     "&8───────────────",
     "",

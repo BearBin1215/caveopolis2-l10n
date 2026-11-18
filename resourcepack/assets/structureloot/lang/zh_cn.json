@@ -11,7 +11,7 @@
   "jei.structureloot.cond.all_of": "全部满足：%s",
   "jei.structureloot.cond.any_of": "任意满足：%s",
   "jei.structureloot.cond.block_state": "方块 %s（%s）",
-  "jei.structureloot.cond.killed_by_player": "升级槽需要放入物品（由玩家击杀）",
+  "jei.structureloot.cond.killed_by_player": "由玩家击杀",
   "jei.structureloot.cond.not": "非：%s",
   "jei.structureloot.cond.not_raining": "未下雨时",
   "jei.structureloot.cond.not_thundering": "未雷暴时",
