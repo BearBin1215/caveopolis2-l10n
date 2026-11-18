@@ -46,7 +46,7 @@
     "&lCave Sweet Cave&r"
   ],
   "quest.025F7EF53C37D461.quest_desc": [
-    "&l滤网&r放入&l筛子&r中，可从方块中获取资源。我们能制作的第一个是&#8B4513&l木滤网&r&r",
+    "&l滤网&r放入&l过滤器&r中，可从方块中获取资源。我们能制作的第一个是&#8B4513&l木滤网&r&r",
     "",
     "&8───────────────",
     "",
@@ -206,7 +206,7 @@
     "Crafted with &8&lDust&r&r"
   ],
   "quest.574F3682A221135E.quest_desc": [
-    "&l筛选&r&#8B4513&l泥&r&r时可获得&9&l黏土球&r&r",
+    "&l过滤&r&#8B4513&l泥&r&r时可获得&9&l黏土球&r&r",
     "",
     "&8───────────────",
     "",
@@ -220,7 +220,7 @@
     "When breaking &8&lGravel&r&r with a &lHammer&r you will sometimes get &#8B4513&lDirt Piles&r&r"
   ],
   "quest.44E4456E2172CD2C.quest_desc": [
-    "&l筛选&r&8&l沙砾&r&r时可获得&8&l燧石&r&r。部分筛子配方需要流体，这里需要&1&l水&r&r。手持&1&l水滴&r&r右击筛子即可加入&1&l水&r&r",
+    "&l过滤&r&8&l沙砾&r&r时可获得&8&l燧石&r&r。部分过滤器的合成配方需要流体，这里需要&1&l水&r&r。手持&1&l水滴&r&r右击过滤器即可加入&1&l水&r&r",
     "",
     "&8───────────────",
     "",
@@ -353,7 +353,7 @@
   "quest.52EC37F1786E844E.quest_desc": [
     "作用与&1&l水滴&r&r相同，但生成的是&8&l腐蚀水&r&r。",
     "",
-    "&8&l腐蚀水&r&r可在&l筛子&r中使用，将&8&l圆石&r&r等方块分解为&8&l沙砾&r&r",
+    "&8&l腐蚀水&r&r可在&l过滤器&r中使用，将&8&l圆石&r&r等方块分解为&8&l沙砾&r&r",
     "",
     "&8───────────────",
     "",
@@ -376,18 +376,18 @@
     "The &8&lFlint Mesh&r&r is the next tier of &lMesh&r allowing for better chances as well as new resources to be found"
   ],
   "quest.1A54077F8F9BB446.quest_desc": [
-    "基础的&l筛子&r只需放入一张滤网即可工作",
+    "基础的&l过滤器&r只需放入一张滤网即可工作",
     "",
     "&8───────────────",
     "",
     "A basic &lStrainer&r just requires a Mesh inside to work "
   ],
   "quest.060BC8E865394692.quest_desc": [
-    "在&l筛子&r中&l筛选&r&2&l覆盖物&r&r时可获得&1&l水滴&r&r。",
+    "在&l过滤器&r中&l过滤&r&2&l覆盖物&r&r时可获得&1&l水滴&r&r。",
     "",
     "手持 4 个&1&l水滴&r&r对着世界右击，会放置一个&1&l水源&r&r方块。",
     "",
-    "&1&l水滴&r&r可用于向&l筛子&r中加入&1&l水&r&r",
+    "&1&l水滴&r&r可用于向&l过滤器&r中加入&1&l水&r&r",
     "",
     "&8───────────────",
     "",
@@ -405,7 +405,7 @@
     "Can be used to grow &2&lSaplings&r&r instantly providing there is enough space for it"
   ],
   "quest.48BB019808A704AE.quest_desc": [
-    "&l筛选&r&l&2覆盖物&r&r时同样可获得&2&l树苗袋&r&r",
+    "&l过滤&r&l&2覆盖物&r&r时同样可获得&2&l树苗袋&r&r",
     "",
     "&8───────────────",
     "",
