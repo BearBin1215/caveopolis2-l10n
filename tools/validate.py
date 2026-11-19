@@ -357,6 +357,19 @@ def check_kubejs() -> None:
     print(f"KubeJS 语言文件：{count} 条")
 
 
+def check_shop_traders() -> None:
+    path = KUBEJS / "data" / "shops" / "data_maps" / "block" / "trader_names.json"
+    data = load_json_strict(path)
+    count = 0
+    for block, names in data.get("values", {}).items():
+        for name in names:
+            texture = name.lower().replace(" ", "_")
+            if not re.fullmatch(r"[a-z0-9._-]+", texture):
+                add(f"商店商人 {block}: “{name}”会被拼进贴图路径，只能使用 ASCII 字母、数字和空格")
+            count += 1
+    print(f"商店商人名称：{count} 个")
+
+
 def main() -> None:
     check_resourcepack()
     check_quests()
@@ -364,6 +377,7 @@ def main() -> None:
     check_supplements()
     check_singularities()
     check_kubejs()
+    check_shop_traders()
     REPORTS.mkdir(exist_ok=True)
     (REPORTS / "validation.md").write_text(
         "# 校验结果\n\n"

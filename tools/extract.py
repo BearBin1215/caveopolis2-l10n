@@ -195,16 +195,6 @@ def extract_singularities() -> list[dict]:
     return singularities
 
 
-def extract_traders() -> list[dict]:
-    path = OVERRIDES / "kubejs" / "data" / "shops" / "data_maps" / "block" / "trader_names.json"
-    data = json.loads(path.read_text(encoding="utf-8"))
-    return [
-        {"block": block, "name": name}
-        for block, names in data.get("values", {}).items()
-        for name in names
-    ]
-
-
 def extract_shop_custom_names() -> list[dict]:
     text = (OVERRIDES / "kubejs" / "server_scripts" / "mods" / "Shops.js").read_text(encoding="utf-8")
     names = []
@@ -220,7 +210,6 @@ def extract_custom() -> None:
         "player_messages": extract_player_messages(),
         "jei_groups": extract_jei_groups(),
         "singularities": extract_singularities(),
-        "traders": extract_traders(),
         "shop_custom_names": extract_shop_custom_names(),
     }
     write_json(EXTRACTED / "custom" / "inventory.json", inventory)
@@ -231,7 +220,6 @@ def extract_custom() -> None:
         f"{len(inventory['player_messages'])} 条玩家提示，"
         f"{len(inventory['jei_groups'])} 个 JEI 分组，"
         f"{len(inventory['singularities'])} 个奇点，"
-        f"{len(inventory['traders'])} 个交易员名称，"
         f"{len(inventory['shop_custom_names'])} 个商店自定义名称"
     )
 
