@@ -172,7 +172,8 @@ ServerEvents.recipes(event => {
     event.recipes.shops.shop('8x colors:light_gray_apple', 12, 4).trader('caveopolis:trader_hut_light_gray_house')
         .tier('light_gray_house_1').order(3).id('caveopolis:shops/trader/light_gray_apple')
 
-    event.recipes.shops.shop('minecraft:stone_sword[custom_name="格雷森先生的正义之剑"]', 30, 0).trader('caveopolis:trader_hut_light_gray_house')
+    // 任务书按 custom_name 严格匹配，剑名必须保持英文
+    event.recipes.shops.shop('minecraft:stone_sword[custom_name="Mr Grayson\'s Sword of Justice"]', 30, 0).trader('caveopolis:trader_hut_light_gray_house')
         .tier('light_gray_house_1').order(1).tierWhenBought('light_gray_house_2').id('caveopolis:shops/trader/mr_grayson_sword')
 
     //Trader - Light Gray House - Tier 2
