@@ -95,7 +95,7 @@ TOKENS = {
     "Totem": "图腾", "Medallion": "徽章", "Chaotic": "混沌",
     "Prismatic": "棱彩", "Labyrinthic": "迷宫", "Liminal": "阈限",
     "Neon": "霓虹", "Nexus": "枢纽", "Pareidolia": "空想性错视",
-    "Supaplex": "Supaplex", "Zelda": "塞尔达", "Zag": "折线",
+    "Supaplex": "Supaplex", "Zelda": "塞尔达风", "Zag": "折线",
     "Chrono": "时序", "Arcane": "奥术石", "Military": "军用",
     "Valentines": "情人节", "Tyrian": "泰尔紫", "Factory": "工厂",
     "Futura": "未来", "Laboratory": "实验室", "Kitchen": "厨房",
@@ -402,3 +402,44 @@ EXACT.update({
 
 for _i in range(1, 7):
     EXACT[f"Chisel {_i}"] = f"凿制 {_i}"
+
+EXACT.update({
+    "Blue Fantasy Block": "蓝色幻想方块",
+    "Broken Plating": "破损金属板",
+    "Broken Plating (Transparent)": "破损金属板（透明）",
+    "Corrugated Sheet Metal": "波纹金属板",
+    "Cross": "十字纹",
+    "Decorative Metal": "装饰金属",
+    "Dirty Plating": "污渍金属板",
+    "Fantasy Block": "幻想方块",
+    "Gear Train": "齿轮组",
+    "Gear Train (Animated)": "齿轮组（动态）",
+    "Geometric Plating": "几何金属板",
+    "Green Fantasy Block": "绿色幻想方块",
+    "Large Bricks (Single Block)": "大型砖块（单方块）",
+    "Large Dirty Metal Plate": "大型污渍金属板",
+    "Large Metal Sheets": "大型金属板",
+    "Mechanical Clock": "机械钟",
+    "Mechanical Clock (Transparent)": "机械钟（透明）",
+    "Metal Grate (Transparent)": "金属格栅（透明）",
+    "Purple Fantasy Block": "紫色幻想方块",
+    "Red Fantasy Block": "红色幻想方块",
+    "Riveted Pattern": "铆钉图案",
+    "Riveted Plating": "铆钉金属板",
+    "Rusted Metal Sheet": "锈蚀金属板",
+    "Rusty Teal": "锈青色",
+    "Vent": "通风口",
+    "Verdigris Plating": "铜绿金属板",
+})
+for _wood in ("Cherry", "Mangrove", "Pale Oak", "Warped"):
+    EXACT[f"Horizontal {_wood} Wood Planks in Disarray"] = f"散乱的水平{TOKENS[_wood]}木板"
+for _english, _zh in {
+    "Antimony": "锑", "Brass": "黄铜", "Chromium": "铬", "Constantan": "康铜",
+    "Enderium": "末影", "Fluorite": "氟石", "Graphite": "石墨",
+    "Iridium": "铱", "Lumium": "流明", "Osmium": "锇",
+    "Peridot": "橄榄石", "Plutonium": "钚", "Ruby": "红宝石", "Salt": "盐",
+    "Sapphire": "蓝宝石", "Signalum": "信素", "Silicon": "硅",
+    "Stainless Steel": "不锈钢", "Titanium": "钛", "Tungsten": "钨",
+    "Zinc": "锌",
+}.items():
+    EXACT[f"Zelda {_english} Block"] = f"塞尔达风{_zh}块"

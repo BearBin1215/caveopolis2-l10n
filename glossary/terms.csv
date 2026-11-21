@@ -21,7 +21,7 @@ Singularity,奇点,,
 Depth Charm,深度护符,,深度护身符
 Prosperity,活化水晶,Mystical Agriculture 材料,繁荣水晶|富饶水晶
 Prosperity Seeds,活化水晶种子,Caveopolis 自定义种子基底,
-Enderium,末影锭,Casting 流体作“熔融末影锭”,末影合金|末地锭
+Enderium,末影锭,Casting 流体作“熔融末影锭”；AllTheOres 与 Chisel 方块组作“末影块”,末影合金|末地锭
 Crystalline,结晶,任务正文中的材料名,
 Fire Essence,火之精华,元素精华,火焰精华|火精华
 Toprock,顶层岩石,世界顶层不可破坏方块,顶层石
@@ -134,3 +134,56 @@ Deepslate,深板岩,原版方块,
 Prismarine,海晶石,原版方块,
 Magma Block,岩浆块,原版方块,
 Purpur Block,紫珀块,原版方块,
+Lumium,流明,Chisel/AllTheOres 方块组；锭作“流明锭”,流明合金
+Sulfur,硫磺,AllTheOres 矿石与 Chisel 方块组,
+Antimony,锑,Chisel 方块组,
+Brass,黄铜,AllTheOres/Chisel 方块组,
+Chromium,铬,Chisel 方块组,
+Cinnabar,朱砂,Chisel 方块组,辰砂
+Constantan,康铜,AllTheOres/Chisel 方块组,
+Fluorite,氟石,AllTheOres/Chisel 方块组,萤石
+Graphite,石墨,Chisel 方块组,
+Iridium,铱,AllTheOres/Chisel 方块组,
+Osmium,锇,AllTheOres/Chisel 方块组,
+Peridot,橄榄石,AllTheOres/Chisel 方块组,
+Plutonium,钚,Chisel 方块组,
+Rose Quartz,玫瑰石英,Chisel 方块组,粉水晶
+Ruby,红宝石,AllTheOres/Chisel 方块组,
+Sapphire,蓝宝石,AllTheOres/Chisel 方块组,
+Salt,盐,AllTheOres/Chisel 方块组,
+Silicon,硅,Chisel 方块组,矽
+Stainless Steel,不锈钢,Chisel 方块组,
+Titanium,钛,Chisel 方块组,
+Tungsten,钨,Chisel 方块组,
+Zinc,锌,AllTheOres/Chisel 方块组,
+Amber,琥珀色,Chisel 色系方块前缀,
+Aquamarine,海蓝色,Chisel 色系方块前缀,海蓝宝石色
+Bubblegum,泡泡糖色,Chisel 色系方块前缀,
+Cherenkov,切伦科夫色,Chisel 色系方块前缀；物理名词“切伦科夫辐射”,
+Conifer,针叶色,Chisel 色系方块前缀,
+Fluorescent,荧光色,Chisel 色系方块前缀,
+Honey,蜂蜜色,Chisel 色系方块前缀,
+Icy Blue,冰蓝色,Chisel 色系方块前缀,
+Lavender,薰衣草色,Chisel 色系方块前缀,薰衣草紫
+Maroon,栗色,Chisel 色系方块前缀,褐红色|酒红
+Mint,薄荷色,Chisel 色系方块前缀,薄荷绿
+Navy,藏青色,Chisel 色系方块前缀,海军蓝
+Peach,桃色,Chisel 色系方块前缀,蜜桃色
+Persimmon,柿子色,Chisel 色系方块前缀,
+Rose,玫瑰色,Chisel 色系方块前缀,玫瑰红
+Spring Green,春绿色,Chisel 色系方块前缀,
+Ultramarine,群青色,Chisel 色系方块前缀,
+Wine,酒红色,Chisel 色系方块前缀,红酒色
+Zelda Block,塞尔达风方块,Chisel 装饰系列；具体材料作“塞尔达风+材料名”,塞尔达方块
+Fantasy Block,幻想方块,Chisel 装饰方块；有蓝/绿/紫/红变体,幻想石
+Builders' Guide,建筑师指南,Chisel 物品,
+Builders' Handbook,建筑师手册,Chisel 26.1.2 新物品；封面分两行显示,建筑手册
+Trowel,抹刀,Chisel 26.1.2 新工具,泥刀
+Palette Builder,配色刷,Chisel 26.1.2 新工具,调色板
+Ender Offset Wand,末影偏移魔杖,Chisel 26.1.2 新工具,
+Mini Me,Mini Me,模组名与实体名保留英文,
+Mini Me Constructor,Mini Me 组装机,Mini Me 方块,
+Mini Me Factory,Mini Me 工厂,Mini Me 方块,
+Instruction Desk,指令台,Mini Me 方块,
+Mini Me Command Tool,Mini Me 指令工具,Mini Me 物品,
+Mini Me Instructions,Mini Me 工作说明,Mini Me 物品,

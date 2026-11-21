@@ -635,5 +635,13 @@
   "jei.key.modifier.control": "CTRL",
   "jei.key.modifier.command": "CMD",
   "jei.key.modifier.alt": "ALT",
-  "_comment": "配置"
+  "_comment": "配置",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode": "配方书签预览",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.description": "选择配方书签上何时显示配方预览和额外详情。Shift 选项使用设置的书签详情按键。",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.value.DISABLED": "禁用",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.value.DISABLED.description": "在配方书签上隐藏配方预览。",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.value.SHIFT": "按住 Shift 时显示",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.value.SHIFT.description": "按住书签详情按键（默认为 Shift）时显示配方预览和额外详情。",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.value.ALWAYS": "始终显示",
+  "jei.config.client.bookmarkList.bookmarkPreviewMode.value.ALWAYS.description": "无需按键即可显示配方预览和额外详情。"
 }

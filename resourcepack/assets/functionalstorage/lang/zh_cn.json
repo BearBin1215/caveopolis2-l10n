@@ -162,5 +162,7 @@
   "storageupgrade.obj.item_storage": "物品存储量",
   "upgrade.type": "类型：",
   "upgrade.type.storage": "存储",
-  "upgrade.type.utility": "功能"
+  "upgrade.type.utility": "功能",
+  "tooltip.functional_storage.creative_vending_incompatible_with_item": "创造取出升级与 %s 不兼容，因此无法安装到此抽屉中。",
+  "tooltip.functional_storage.item_incompatible_with_creative_vending": "此物品与创造取出升级不兼容，因此无法存入此抽屉。"
 }

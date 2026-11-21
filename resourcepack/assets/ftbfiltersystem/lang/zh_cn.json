@@ -63,5 +63,11 @@
   "filter.ftbfiltersystem.custom.tooltip": "高级过滤器，面向模组作者和整合包开发者。\n匹配时会触发 CustomFilterEvent 事件，由事件结果决定匹配成功或失败。\n在文本框中输入自由格式文本，作为“data”参数传给事件。",
   "filter.ftbfiltersystem.expression.name": "表达式",
   "filter.ftbfiltersystem.expression.tooltip": "可以输入过滤表达式原文，也可以从物品栏中的过滤物品加载表达式。\n建议为其设置自定义名称，方便辨认用途。",
-  "filter.ftbfiltersystem.root.name": "根（全部满足）"
+  "filter.ftbfiltersystem.root.name": "根（全部满足）",
+  "key.category.ftbfiltersystem.gui": "FTB 过滤系统（物品栏界面）",
+  "key.ftbfiltersystem.gui.get_or_filter_hotbar": "创建“任意满足”过滤器（快捷栏物品）",
+  "key.ftbfiltersystem.gui.get_or_filter_inv": "创建“任意满足”过滤器（全部物品）",
+  "ftbfiltersystem.message.gave_or_filter": "已创建包含 %s 种不同物品的“任意满足”过滤器",
+  "ftbfiltersystem.message.or_filter": "以下 %s 种物品中的任意一种",
+  "ftbfiltersystem.message.hold_shift": "按住 Shift 查看详细信息"
 }

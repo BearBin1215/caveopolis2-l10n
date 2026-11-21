@@ -2,7 +2,6 @@
   "item.pipe_connector.pipe_connector": "管道连接器",
   "item.pipe_connector.message.holdValidItem": "副手必须持有有效的管道物品",
   "item.pipe_connector.gui.button.tooltip.disabledButtonHoldValidItem": "副手必须持有有效的管道物品",
-  "item.pipe_connector.message.UpSideNotAllowed": "不能将管道连接到方块的顶部",
   "item.pipe_connector.message.firstPositionSet": "已选择第1个位置：%s",
   "item.pipe_connector.message.secondPositionSet": "已选择第2个位置：%s",
   "item.pipe_connector.message.resettingPositions": "正在重置位置",
@@ -97,5 +96,6 @@
   "item.pipe_connector.message.replaceSeedChanged": "所选管道已更改或被移除——请重新选择",
   "item.pipe_connector.message.replaceWrongFamily": "%s 无法替换 %s——管道必须来自同一模组",
   "item.pipe_connector.message.replaceSameAsTarget": "所选路径已经全部由该管道组成",
-  "item.pipe_connector.message.replaceEioDowngrade": "Ender IO 导管只能替换为升级版本，不支持降级"
+  "item.pipe_connector.message.replaceEioDowngrade": "Ender IO 导管只能替换为升级版本，不支持降级",
+  "item.pipe_connector.message.topNodeBlockReached": "管道无法穿过 %s，其上方已有选定位置"
 }

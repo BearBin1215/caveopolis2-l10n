@@ -11,7 +11,7 @@ from typing import Any, Iterable
 ROOT = Path(__file__).resolve().parent.parent
 REFERENCES = ROOT / ".agents" / "references"
 MODS = REFERENCES / "mods"
-MODPACK = REFERENCES / "Caveopolis-2-0.18.0"
+MODPACK = REFERENCES / "Caveopolis-2-1.0"
 OVERRIDES = MODPACK / "overrides"
 I18N = REFERENCES / "i18n-resourcepack" / "Minecraft-Mod-Language-Modpack-Converted-26.1.2"
 
@@ -24,8 +24,8 @@ KUBEJS = ROOT / "kubejs"
 REPORTS = ROOT / "reports"
 DIST = ROOT / "dist"
 
-MODPACK_VERSION = "0.18.0"
-RELEASE_VERSION = "0.18.0-r5"
+MODPACK_VERSION = "1.0"
+RELEASE_VERSION = "1.0-r1"
 
 # 命名空间到模组 jar 文件名前缀的映射，只列出作者模组。
 AUTHOR_MODS = {
@@ -54,6 +54,7 @@ AUTHOR_MODS = {
     "inworldrecipes": "inworldrecipes",
     "jeigroups": "jeigroups",
     "modpackutils": "modpackutils",
+    "minime": "minime",
     "shops": "shops",
     "appliedsticks": "appliedsticks",
     "schemajs": "schemajs",

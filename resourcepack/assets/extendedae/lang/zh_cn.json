@@ -262,5 +262,8 @@
   "emi.extendedae.text.success_chance": "成功率：%s",
   "emi.extendedae.text.energy": "%s AE",
   "emi.extendedae.desc.entro_crystal": "恩特罗水晶由萌芽的恩特罗化福鲁伊克斯长成，原理与赛特斯石英相同。要获得萌芽的恩特罗化福鲁伊克斯，需要先制作恩特罗种子，再对着福鲁伊克斯块使用。",
-  "emi.extendedae.desc.entro_seed": "在放置于世界中的福鲁伊克斯块上使用恩特罗种子，会将该福鲁伊克斯块变成萌芽的恩特罗化福鲁伊克斯。"
+  "emi.extendedae.desc.entro_seed": "在放置于世界中的福鲁伊克斯块上使用恩特罗种子，会将该福鲁伊克斯块变成萌芽的恩特罗化福鲁伊克斯。",
+  "block.extendedae.pulverizer": "ME 粉碎机",
+  "gui.extendedae.pulverizer": "ME 粉碎机",
+  "emi.extendedae.text.output_chance": "产出概率：%s"
 }

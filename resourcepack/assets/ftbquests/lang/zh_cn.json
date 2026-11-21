@@ -323,11 +323,6 @@
   "ftbquests.chapter_group": "章节组",
   "ftbquests.quest_link": "任务链接",
   "ftbquests.chapter_groups": "章节组",
-  "ftbquests.gui.image.width": "图片宽度",
-  "ftbquests.gui.image.height": "图片高度",
-  "ftbquests.gui.image.align": "对齐",
-  "ftbquests.gui.image.fit": "适应面板宽度？",
-  "ftbquests.gui.image.image": "图片位置",
   "ftbquests.gui.preferences": "玩家偏好",
   "ftbquests.gui.line": "添加文本行",
   "ftbquests.gui.image": "添加图片",
@@ -760,5 +755,14 @@
   "ftbquests.event.move_chapter_across": "移动 %s '%s' -> %s '%s'",
   "ftbquests.event.move_object": "移动 %s '%s' %s",
   "ftbquests.event.move_movable": "移动 %s '%s'",
-  "ftbquests.event.update_translation": "更新翻译 %s %s “%s”"
+  "ftbquests.event.update_translation": "更新翻译 %s %s “%s”",
+  "ftbquests.image.aspect": "宽高比提示",
+  "ftbquests.gui.resize": "调整大小",
+  "ftbquests.gui.rotate": "旋转",
+  "ftbquests.gui.rotate_angle": "旋转：%s°",
+  "ftbquests.gui.rotate_hint_ctrl": "Ctrl：关闭吸附（15° 步进）",
+  "ftbquests.gui.resize_size": "尺寸：%s × %s",
+  "ftbquests.gui.resize_hint_shift": "Shift：锁定宽高比",
+  "ftbquests.gui.resize_hint_ctrl": "Ctrl：关闭吸附（1/16 步进）",
+  "ftbquests.gui.resize_hint_cancel": "Esc：取消"
 }

@@ -1,7 +1,7 @@
 """生成 Chisel 的 zh_cn 语言文件。
 
-Chisel 的 23,719 个键只包含 270 个不同方块名和 1,151 条不同说明，
-因此先翻译去重后的字符串，再映射回全部键。
+Chisel 的 38,008 个键只包含 370 个不同方块名和 1,263 条不同说明，
+因此先翻译去重后的字符串，再映射回全部键。手册引导文本另存于 chisel_guide_zh.json。
 """
 
 from __future__ import annotations
@@ -11,7 +11,9 @@ import re
 from pathlib import Path
 
 from chisel_data import EXACT, TOKENS
-from common import RESOURCEPACK, WORK, find_jar, jar_lang, write_json
+from common import RESOURCEPACK, WORK, find_jar, jar_lang, read_json, write_json
+
+GUIDE_ZH = Path(__file__).resolve().parent / "chisel_guide_zh.json"
 
 NAMES = {
     "Acacia Bookshelf": "金合欢木书架",
@@ -292,26 +294,43 @@ _COLOR_ZH = {
     "Light Gray": "淡灰色", "Lime": "黄绿色", "Magenta": "品红色",
     "Orange": "橙色", "Pink": "粉红色", "Purple": "紫色", "Red": "红色",
     "White": "白色", "Yellow": "黄色",
+    "Amber": "琥珀色", "Aquamarine": "海蓝色", "Bubblegum": "泡泡糖色",
+    "Cherenkov": "切伦科夫色", "Conifer": "针叶色", "Fluorescent": "荧光色",
+    "Honey": "蜂蜜色", "Icy Blue": "冰蓝色", "Lavender": "薰衣草色",
+    "Maroon": "栗色", "Mint": "薄荷色", "Navy": "藏青色", "Peach": "桃色",
+    "Persimmon": "柿子色", "Rose": "玫瑰色", "Spring Green": "春绿色",
+    "Ultramarine": "群青色", "Wine": "酒红色",
 }
-_COLOR_PREFIX = re.compile(
-    r"^(Light Blue|Light Gray|Black|Blue|Brown|Cyan|Gray|Green|Lime|Magenta|"
-    r"Orange|Pink|Purple|Red|White|Yellow) (Oak|Steel) Framed Stained Glass$"
-)
-for _english in list(NAMES):
-    _match = _COLOR_PREFIX.match(_english)
-    if _match:
-        NAMES[_english] = f"{'橡木' if _match.group(2) == 'Oak' else '钢'}边框{_COLOR_ZH[_match.group(1)]}染色玻璃"
+for _color, _zh in _COLOR_ZH.items():
+    NAMES.setdefault(f"{_color} Concrete", f"{_zh}混凝土")
+    NAMES.setdefault(f"{_color} Stained Glass", f"{_zh}染色玻璃")
+    NAMES[f"{_color} Oak Framed Stained Glass"] = f"橡木边框{_zh}染色玻璃"
+    NAMES[f"{_color} Steel Framed Stained Glass"] = f"钢边框{_zh}染色玻璃"
 
-for _english, _zh in {
+METALS = {
     "Aluminum": "铝", "Bronze": "青铜", "Charcoal": "木炭", "Coal Coke": "焦炭",
     "Cobalt": "钴", "Electrum": "琥珀金", "Invar": "殷钢", "Lead": "铅",
     "Nickel": "镍", "Platinum": "铂", "Resin": "树脂", "Silver": "银",
     "Steel": "钢", "Tallow": "动物油脂", "Thaumium": "神秘金属", "Tin": "锡",
     "Uranium": "铀",
-}.items():
+    "Antimony": "锑", "Brass": "黄铜", "Chromium": "铬", "Cinnabar": "朱砂",
+    "Constantan": "康铜", "Enderium": "末影", "Fluorite": "氟石",
+    "Graphite": "石墨", "Iridium": "铱", "Lumium": "流明",
+    "Osmium": "锇", "Peridot": "橄榄石", "Plutonium": "钚",
+    "Rose Quartz": "玫瑰石英", "Ruby": "红宝石", "Salt": "盐",
+    "Sapphire": "蓝宝石", "Signalum": "信素", "Silicon": "硅",
+    "Stainless Steel": "不锈钢", "Sulfur": "硫磺", "Titanium": "钛",
+    "Tungsten": "钨", "Zinc": "锌",
+}
+for _english, _zh in METALS.items():
     NAMES[_english] = _zh + "块"
 
 NAMES["Technical Block"] = "技术方块"
+NAMES["Builder's Guide"] = "建筑师指南"
+NAMES["Fantasy Block"] = "幻想方块"
+NAMES["Fluix Block"] = "福鲁伊克斯方块"
+NAMES["Redstone Sea Lamp"] = "红石海晶灯"
+NAMES["Steampunk Block"] = "蒸汽朋克方块"
 
 OTHER = {
     "chisel.builders_guide.mode_changed": "模式已切换为",
@@ -427,6 +446,7 @@ def build() -> dict[str, str]:
     en = jar_lang(jar, "chisel", "en_us")
     assert en
     result = dict(OTHER)
+    result.update(read_json(GUIDE_ZH))
     missing: set[str] = set()
     for key, english in en.items():
         if key.startswith("block.chisel.") and key.endswith(".desc"):

@@ -18,7 +18,7 @@
 ## 许可
 
 - 译文、术语表和文档采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可，署名为 CFPA 团队和 caveopolis2-l10n 贡献者；生成的语言文件按同一许可提供。
-- `tools/` 下的 Python 脚本代码采用 [MIT](LICENSE-CODE) 许可；脚本内嵌的译文数据和 `tools/quests_zh/` 下的 JSON 文件仍按 CC BY-NC-SA 4.0 处理。
+- `tools/` 下的 Python 脚本代码采用 [MIT](LICENSE-CODE) 许可；脚本内嵌的译文数据和 `tools/quests_zh/`、`tools/chisel_guide_zh.json` 下的 JSON 文件仍按 CC BY-NC-SA 4.0 处理。
 - `mods/` 中的修补版 BBL Strainers 按原模组的 MIT 许可提供，详见 [LICENSE-strainers](LICENSE-strainers)。
 - 通用模组文本来自 [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) 和模组自带的 `zh_cn` 文件；整合包、模组和原始文本的权利归各自作者所有。
 - 来源、修改说明和第三方权利详见 [NOTICE.md](NOTICE.md)。

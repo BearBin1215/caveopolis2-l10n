@@ -12,7 +12,7 @@
 ## 代码
 
 - `tools/` 下的 Python 脚本代码采用 [MIT](LICENSE-CODE) 许可，版权归 BearBin1215 及贡献者所有。
-- 脚本中内嵌的译文数据（字典、字符串表和类似内容）以及 `tools/quests_zh/` 下的 JSON 文件仍采用 CC BY-NC-SA 4.0。
+- 脚本中内嵌的译文数据（字典、字符串表和类似内容）以及 `tools/quests_zh/`、`tools/chisel_guide_zh.json` 下的 JSON 文件仍采用 CC BY-NC-SA 4.0。
 
 ## 第三方内容
 

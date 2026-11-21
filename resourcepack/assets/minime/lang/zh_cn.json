@@ -1,0 +1,12 @@
+{
+  "block.minime.instruction_desk": "指令台",
+  "block.minime.mini_me_constructor": "Mini Me 组装机",
+  "block.minime.mini_me_factory": "Mini Me 工厂",
+  "entity.minime.mini_me": "Mini Me",
+  "item.minime.command_tool": "Mini Me 指令工具",
+  "item.minime.instructions": "Mini Me 工作说明",
+  "itemGroup.minime": "Mini Me",
+  "tooltip.minime.instruction_desk": "放入 Mini Me 工作说明并支付物品，即可将工作写入其中。",
+  "tooltip.minime.instructions": "放在 Mini Me 的副手，为它分派工作",
+  "tooltip.minime.instructions_header": "工作内容："
+}

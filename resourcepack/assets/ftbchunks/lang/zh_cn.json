@@ -246,7 +246,7 @@
   "ftbchunks.map_mode.none": "无",
   "ftbchunks.map_mode.topography": "地形模式",
   "ftbchunks.message.no_pvp": "此区域禁止PvP",
-  "ftbchunks.minimap.biome": "小地图生物群系",
+  "ftbchunks.minimap.biome": "生物群系：%s",
   "ftbchunks.minimap.blur_mode.auto": "自动",
   "ftbchunks.minimap.blur_mode.off": "关",
   "ftbchunks.minimap.blur_mode.on": "开",
@@ -333,7 +333,7 @@
   "minimap.info.ftbchunks.game_time.description": "显示游戏时间",
   "minimap.info.ftbchunks.game_time.title": "游戏时间",
   "minimap.info.ftbchunks.player_pos.description": "显示玩家坐标",
-  "minimap.info.ftbchunks.player_pos.title": "玩家坐标",
+  "minimap.info.ftbchunks.player_pos.title": "玩家坐标：%s",
   "minimap.info.ftbchunks.real_time.description": "显示现实时间",
   "minimap.info.ftbchunks.real_time.title": "现实时间",
   "minimap.info.ftbchunks.zone.description": "显示区域",
@@ -350,5 +350,7 @@
   "sidebar_button.ftbchunks.claim_chunks": "FTB Chunks：认领管理器",
   "tag.item.ftbchunks.right_click_blacklist": "右键黑名单",
   "tag.item.ftbchunks.right_click_whitelist": "右键白名单",
-  "wilderness": "野外"
+  "wilderness": "野外",
+  "ftbchunks.config.client.minimap.entity_heads": "实体头像",
+  "ftbchunks.config.client.minimap.info.info_labels": "显示小地图信息标签"
 }
